@@ -1,0 +1,692 @@
+Stage,Date,Distance,Origin,Destination,Type,Winner,Winner_Country,Year,rider_name,Gen_type,birth_date,birth_city,dist_from_origin,dist_from_destination
+4,2017-07-04,207.5,Mondorf-les-Bains,Vittel,Flat stage,Arnaud Démare,FRA,2017,Arnaud_Démare,,1991-08-26,Beauvais,304.4430721074666,314.5798695906129
+8,2017-07-08,187.5,Dole,Station des Rousses,Medium mountain stage,Lilian Calmejane,FRA,2017,Lilian_Calmejane,Mountain stage,1992-12-06,Albi,438.08355285960727,119.44636410079312
+12,2017-07-13,214.5,Pau,Peyragudes,High mountain stage,Romain Bardet,FRA,2017,Romain_Bardet,Mountain stage,1990-11-09,Brioude,372.8310225266064,
+13,2017-07-14,101.0,Saint-Girons,Foix,High mountain stage,Warren Barguil,FRA,2017,Warren_Barguil,Mountain stage,1991-10-28,Hennebont,637.7300810475077,659.7475293320077
+18,2017-07-20,179.5,Briançon,Col d'Izoard,High mountain stage,Warren Barguil,FRA,2017,Warren_Barguil,Mountain stage,1991-10-28,Hennebont,828.2492913353617,
+19,2016-07-22,146.0,Albertville,Saint Gervais-les-Bains,High mountain stage,Romain Bardet,FRA,2016,Romain_Bardet,Mountain stage,1990-11-09,Brioude,238.8772843551229,
+8,2015-07-11,181.5,Rennes,Mûr-de-Bretagne,Flat stage,Alexis Vuillermoz,FRA,2015,Alexis_Vuillermoz,,1988-06-01,Saint-Claude,602.0871342324808,
+18,2015-07-23,186.5,Gap,Saint-Jean-de-Maurienne,High mountain stage,Romain Bardet,FRA,2015,Romain_Bardet,Mountain stage,1990-11-09,Brioude,227.91873441632194,232.21490294774983
+20,2015-07-25,110.5,Modane,Alpe d'Huez,High mountain stage,Thibaut Pinot,FRA,2015,Thibaut_Pinot,Mountain stage,1990-05-29,Lure,276.5491393444371,963.220548531941
+8,2014-07-12,161.0,Tomblaine,Gérardmer La Mauselaine,Medium mountain stage,Blel Kadri,FRA,2014,Blel_Kadri,Mountain stage,1986-09-03,Bordeaux,671.7182087950641,
+11,2014-07-16,187.5,Besançon,Oyonnax,Medium mountain stage,Tony Gallopin,FRA,2014,Tony_Gallopin,Mountain stage,1988-05-24,Dourdan,332.36832337327616,
+18,2013-07-18,172.5,Gap,Alpe d'Huez,High mountain stage,Christophe Riblon,FRA,2013,Christophe_Riblon,Mountain stage,1981-01-17,Tremblay-en-France,559.9679596951405,926.7612364489521
+8,2012-07-08,157.5,Belfort,Porrentruy,Medium mountain stage,Thibaut Pinot,FRA,2012,Thibaut_Pinot,Mountain stage,1990-05-29,Lure,28.17515611412549,
+10,2012-07-11,194.5,Mâcon,Bellegarde-sur-Valserine,High mountain stage,Thomas Voeckler,FRA,2012,Thomas_Voeckler,Mountain stage,1979-06-22,Schiltigheim,337.3035333361392,
+11,2012-07-12,148.0,Albertville,La Toussuire-Les Sybelles,High mountain stage,Pierre Rolland,FRA,2012,Pierre_Rolland,Mountain stage,,,,
+15,2012-07-16,158.5,Samatan,Pau,Flat stage,Pierrick Fédrigo,FRA,2012,Pierrick_Fédrigo,,1978-11-30,Marmande,127.71933535369806,140.56872657998326
+16,2012-07-18,197.0,Pau,Bagnères-de-Luchon,High mountain stage,Thomas Voeckler,FRA,2012,Thomas_Voeckler,Mountain stage,1979-06-22,Schiltigheim,861.820342213732,852.6065605726449
+19,2011-07-22,109.5,Modane,Alpe d'Huez,High mountain stage,Pierre Rolland,FRA,2011,Pierre_Rolland,Mountain stage,,,,
+2,2010-07-05,201.0,Brussels,Spa,Flat stage,Sylvain Chavanel,FRA,2010,Sylvain_Chavanel,,1979-06-30,Châtellerault,527.8294488007225,565.7386561570191
+7,2010-07-10,165.5,Tournus,Station des Rousses,Medium mountain stage,Sylvain Chavanel,FRA,2010,Sylvain_Chavanel,Mountain stage,1979-06-30,Châtellerault,335.1787340442663,375.13383484675165
+9,2010-07-13,204.5,Morzine-Avoriaz,Saint-Jean-de-Maurienne,Mountain stage,Sandy Casar,FRA,2010,Sandy_Casar,,1979-02-02,Mantes-la-Jolie,491.04390973777197,541.7504692020158
+14,2010-07-18,184.5,Revel,Ax 3 Domaines,Mountain stage,Christophe Riblon,FRA,2010,Christophe_Riblon,,1981-01-17,Tremblay-en-France,1842.2018973200911,
+15,2010-07-19,187.5,Pamiers,Bagnères-de-Luchon,Mountain stage,Thomas Voeckler,FRA,2010,Thomas_Voeckler,,1979-06-22,Schiltigheim,773.8755023284091,852.6065605726449
+16,2010-07-20,199.5,Bagnères-de-Luchon,Pau,Mountain stage,Pierrick Fédrigo,FRA,2010,Pierrick_Fédrigo,,1978-11-30,Marmande,193.05758109386477,140.56872657998326
+5,2009-07-08,196.5,Cap d'Agde,Perpignan,Flat stage,Thomas Voeckler,FRA,2009,Thomas_Voeckler,,1979-06-22,Schiltigheim,676.2033158214773,757.2640808755664
+7,2009-07-10,224.0,Barcelona,Andorra-Arcalis,Mountain stage,Brice Feillu,FRA,2009,Brice_Feillu,,1985-07-26,Châteaudun,746.1633119907024,
+9,2009-07-12,160.5,Saint-Gaudens,Tarbes,Mountain stage,Pierrick Fédrigo,FRA,2009,Pierrick_Fédrigo,,1978-11-30,Marmande,161.2123144934203,141.05007462280452
+16,2009-07-21,159.0,Martigny,Bourg-Saint-Maurice,Mountain Stage,Sandy Casar,FRA,2009,Sandy_Casar,Mountain stage,1979-02-02,Mantes-la-Jolie,200.6962631879072,535.1123028933137
+3,2008-07-07,208.0,Saint-Malo,Nantes,Flat stage,Samuel Dumoulin,FRA,2008,Samuel_Dumoulin,,1980-08-20,Vénissieux,617.8838141026713,522.6120694918011
+16,2008-07-22,157.0,Cuneo,Jausiers,Mountain stage,Cyril Dessel,FRA,2008,Cyril_Dessel,,1974-11-29,Rive-de-Gier,260.5263084045875,
+19,2008-07-25,165.5,Roanne,Montluçon,Flat stage,Sylvain Chavanel,FRA,2008,Sylvain_Chavanel,,1979-06-30,Châtellerault,284.7292529696663,166.66529242999545
+10,2007-07-18,229.5,Tallard,Marseille,Plain stage,Cédric Vasseur,FRA,2007,Cédric_Vasseur,Flat stage,1970-08-18,Hazebrouck,744.3224740749062,853.0921230189301
+18,2007-07-27,211.0,Cahors,Angoulême,Plain stage,Sandy Casar,FRA,2007,Sandy_Casar,Flat stage,1979-02-02,Mantes-la-Jolie,505.101904934271,389.284067974956
+1,2006-07-02,184.5,Strasbourg,Strasbourg,Flat stage,Jimmy Casper,FRA,2006,Jimmy_Casper,,1978-05-28,Montdidier,396.08905557977965,396.08905557977965
+8,2006-07-09,181.0,Saint-Méen-le-Grand,Lorient,Flat stage,Sylvain Calzati,FRA,2006,Sylvain_Calzati,,1979-07-01,Lyon,598.5771709580398,663.9005715873272
+14,2006-07-16,180.5,Montélimar,Gap,Hilly stage,Pierrick Fédrigo,FRA,2006,Pierrick_Fédrigo,,1978-11-30,Marmande,364.550327534239,470.3347428924245
+12,2005-07-14,187.0,Briançon,Digne-les-Bains,Hilly stage,David Moncoutié,FRA,2005,David_Moncoutié,,1975-04-30,Provins,480.5969628304785,545.6455382895775
+3,2004-07-06,210.0,Waterloo,Wasquehal,Plain stage,Jean-Patrick Nazon,FRA,2004,Jean-Patrick_Nazon,Flat stage,1977-01-18,Épinal,7207.231788709857,367.2798965953581
+10,2004-07-14,237.0,Limoges,Saint-Flour,Hilly stage,Richard Virenque,FRA,2004,Richard_Virenque,,1969-11-19,Casablanca,1555.616965496556,1645.7002990006026
+11,2004-07-15,164.0,Saint-Flour,Figeac,Hilly stage,David Moncoutié,FRA,2004,David_Moncoutié,,1975-04-30,Provins,317.4268207179068,449.7890232138936
+7,2003-07-12,230.5,Lyon,Morzine,Stage with mountain(s),Richard Virenque,FRA,2003,Richard_Virenque,Mountain stage,1969-11-19,Casablanca,1717.4731301820364,1852.6894703016394
+20,2003-07-27,152.0,Ville-d'Avray,Paris,Plain stage,Jean-Patrick Nazon,FRA,2003,Jean-Patrick_Nazon,Flat stage,1977-01-18,Épinal,323.10173867754065,314.43142317408524
+10,2002-07-17,147.0,Bazas,Pau,Plain stage,Patrice Halgand,FRA,2002,Patrice_Halgand,Flat stage,,,,
+14,2002-07-21,221.0,Lodève,Mont Ventoux,Stage with mountain(s),Richard Virenque,FRA,2002,Richard_Virenque,Mountain stage,1969-11-19,Casablanca,1471.1589851687422,
+P,2001-07-07,8.2,Dunkirk,Dunkirk,Individual time trial,Christophe Moreau,FRA,2001,Christophe_Moreau,Time trial,1971-04-12,Vervins,172.1845029109857,172.1845029109857
+4,2001-07-11,215.0,Huy,Verdun,Plain stage,Laurent Jalabert,FRA,2001,Laurent_Jalabert,Flat stage,1968-11-30,Mazamet,810.9251519982649,
+7,2001-07-14,162.5,Strasbourg,Colmar,Hilly stage,Laurent Jalabert,FRA,2001,Laurent_Jalabert,,1968-11-30,Mazamet,702.2614735018212,640.0550881098261
+7,2000-07-07,205.5,Tours,Limoges,Plain stage,Christophe Agnolutto,FRA,2000,Christophe_Agnolutto,Flat stage,1969-12-06,Soisy-sous-Montmorency,214.24480481431638,359.0476482982687
+16,2000-07-18,196.5,Courchevel,Morzine,Stage with mountain(s),Richard Virenque,FRA,2000,Richard_Virenque,Mountain stage,1969-11-19,Casablanca,1790.3702306809014,1852.6894703016394
+8,1998-07-19,190.5,Brive-la-Gaillarde,Montauban,Plain stage,Jacky Durand,FRA,1998,Jacky_Durand,Flat stage,1967-02-10,Laval,368.7643476805705,479.63410785249215
+5,1997-07-10,261.5,Chantonnay,La Châtre,Flat stage,Cédric Vasseur,FRA,1997,Cédric_Vasseur,,1970-08-18,Hazebrouck,520.5310158447752,462.25149896247217
+9,1997-07-14,182.0,Pau,Loudenvielle,Mountain stage,Laurent Brochard,FRA,1997,Laurent_Brochard,,1968-03-26,Le Mans,525.5184027915719,
+11,1997-07-16,192.0,Andorra Arcalis,Perpignan,Hilly stage,Laurent Desbiens,FRA,1997,Laurent_Desbiens,,1969-09-16,Mons-en-Barœul,899.5652781955781,883.2762620559238
+14,1997-07-20,148.0,Le Bourg-d'Oisans,Courchevel,Mountain stage,Richard Virenque,FRA,1997,Richard_Virenque,,1969-11-19,Casablanca,1728.396735139341,1790.3702306809014
+16,1997-07-22,181.0,Morzine,Fribourg,Hilly stage,Christophe Mengin,FRA,1997,Christophe_Mengin,,1968-09-03,Cornimont,198.5760561110661,144.24040529153885
+18,1997-07-24,175.5,Colmar,Montbéliard,Hilly stage,Didier Rous,FRA,1997,Didier_Rous,,1970-09-18,Montauban,647.3378026450365,574.1659382351298
+1,1996-06-30,209.0,'s-Hertogenbosch,'s-Hertogenbosch,Plain stage,Frédéric Moncassin,FRA,1996,Frédéric_Moncassin,Flat stage,1968-09-26,Toulouse,944.1102869627688,944.1102869627688
+4,1996-07-03,232.0,Soissons,Lac de Madine,Plain stage,Cyril Saugrain,FRA,1996,Cyril_Saugrain,Flat stage,1973-06-22,Livry-Gargan,77.95705477196631,235.95790672570456
+7,1996-07-06,200.0,Chambéry,Les Arcs,Stage with mountain(s),Luc Leblanc,FRA,1996,Luc_Leblanc,Mountain stage,1966-08-04,Limoges,363.7781025962559,
+19,1996-07-19,226.5,Hendaye,Bordeaux,Plain stage,Frédéric Moncassin,FRA,1996,Frédéric_Moncassin,Flat stage,1968-09-26,Toulouse,260.7034453411722,212.2352267243761
+P,1995-07-01,7.3,Saint-Brieuc,Saint-Brieuc,Individual time trial,Jacky Durand,FRA,1995,Jacky_Durand,Time trial,1967-02-10,Laval,155.45684945774147,155.45684945774147
+12,1995-07-14,222.5,Saint-Étienne,Mende,Hilly stage,Laurent Jalabert,FRA,1995,Laurent_Jalabert,,1968-11-30,Mazamet,269.3400269256236,145.42257859042945
+15,1995-07-18,206.0,Saint-Girons,Cauterets,Stage with mountain(s),Richard Virenque,FRA,1995,Richard_Virenque,Mountain stage,1969-11-19,Casablanca,1292.2929274100463,1221.8767933198726
+10,1994-07-12,160.5,Bergerac,Cahors,Plain stage,Jacky Durand,FRA,1994,Jacky_Durand,Flat stage,1967-02-10,Laval,370.4963488393818,437.0423944493262
+11,1994-07-13,263.5,Cahors,Hautacam,Stage with mountain(s),Luc Leblanc,FRA,1994,Luc_Leblanc,Mountain stage,1966-08-04,Limoges,154.61702165375615,
+12,1994-07-15,204.5,Lourdes,Luz Ardiden,Stage with mountain(s),Richard Virenque,FRA,1994,Richard_Virenque,Mountain stage,1969-11-19,Casablanca,1243.734082041333,1224.1000957932445
+21,1994-07-24,175.0,Disneyland Paris,Paris,Plain stage,Eddy Seigneur,FRA,1994,Eddy_Seigneur,Flat stage,1969-02-15,Beauvais,80.03212640692618,65.85045103844169
+14,1993-07-18,223.0,Montpellier,Perpignan,Plain stage,Pascal Lino,FRA,1993,Pascal_Lino,Flat stage,1966-08-13,Sartrouville,607.0045138737825,696.1747146912128
+1,1992-07-05,194.5,San Sebastián,San Sebastián,Hilly stage,Dominique Arnould,FRA,1992,Dominique_Arnould,,1966-11-19,Luxeuil-les-Bains,821.3622907671898,821.3622907671898
+6,1992-07-10,167.0,Roubaix,Brussels,Plain stage,Laurent Jalabert,FRA,1992,Laurent_Jalabert,Flat stage,1968-11-30,Mazamet,802.8675229343789,831.3465741442276
+7,1992-07-11,196.5,Brussels,Valkenburg,Plain stage,Gilles Delion,FRA,1992,Gilles_Delion,Flat stage,1966-08-05,Saint-Étienne,601.160976011532,612.6391834685603
+11,1992-07-15,249.5,Strasbourg,Mulhouse,Hilly stage,Laurent Fignon,FRA,1992,Laurent_Fignon,,1960-08-12,18e arrondissement de Paris,397.43192264402785,389.90695639315834
+17,1992-07-22,189.0,La Bourboule,Montluçon,Plain stage,Jean-Claude Colotti,FRA,1992,Jean-Claude_Colotti,Flat stage,1961-07-01,La Tronche,239.0763889137539,274.572075663822
+18,1992-07-23,212.0,Montluçon,Tours,Plain stage,Thierry Marie,FRA,1992,Thierry_Marie,Flat stage,1963-06-25,Bénouville,388.7343521904798,218.5432046386521
+P,1991-07-06,5.4,Lyon,Lyon,Individual time trial,Thierry Marie,FRA,1991,Thierry_Marie,Time trial,1963-06-25,Bénouville,546.2793027012044,546.2793027012044
+6,1991-07-11,259.0,Arras,Le Havre,Plain stage,Thierry Marie,FRA,1991,Thierry_Marie,Flat stage,1963-06-25,Bénouville,248.85560714157896,39.281084169827096
+11,1991-07-16,246.0,Quimper,Saint-Herblain,Plain stage,Charly Mottet,FRA,1991,Charly_Mottet,Flat stage,1962-12-16,Valence,769.571645349535,
+12,1991-07-18,192.0,Pau,Jaca,Stage with mountain(s),Charly Mottet,FRA,1991,Charly_Mottet,Mountain stage,1962-12-16,Valence,458.63254840546733,510.77010665196036
+18,1991-07-24,255.0,Le Bourg-d'Oisans,Morzine,Stage with mountain(s),Thierry Claveyrolat,FRA,1991,Thierry_Claveyrolat,Mountain stage,1959-03-31,La Tronche,28.222569135152984,131.43726995906582
+P,1990-06-30,6.3,Futuroscope,Futuroscope,Individual time trial,Thierry Marie,FRA,1990,Thierry_Marie,Time trial,1963-06-25,Bénouville,290.79203539422394,290.79203539422394
+10,1990-07-10,118.5,Geneva,Saint-Gervais,Stage with mountain(s),Thierry Claveyrolat,FRA,1990,Thierry_Claveyrolat,Mountain stage,1959-03-31,La Tronche,114.66982805017653,20.730466359249974
+15,1990-07-16,170.0,Millau,Revel,Plain stage,Charly Mottet,FRA,1990,Charly_Mottet,Flat stage,1962-12-16,Valence,171.36240413410388,2092.2865479096
+6,1989-07-07,259.0,Rennes,Futuroscope,Plain stage,Joël Pelier,FRA,1989,Joël_Pelier,Flat stage,1962-03-23,Valentigney,641.4753850368529,498.75257708761757
+13,1989-07-14,179.0,Montpellier,Marseille,Plain stage,Vincent Barteau,FRA,1989,Vincent_Barteau,Flat stage,1962-03-18,Caen,699.5219073009881,789.1005690127621
+18,1989-07-20,91.5,Le Bourg-d'Oisans,Villard-de-Lans,Stage with mountain(s),Laurent Fignon,FRA,1989,Laurent_Fignon,Mountain stage,1960-08-12,18e arrondissement de Paris,508.9688502527723,488.4346748068861
+9,1988-07-11,161.0,Nancy,Strasbourg,Hilly stage,Jérôme Simon,FRA,1988,Jérôme_Simon,,1960-12-05,Troyes,161.9681867362941,273.8282432759819
+20,1988-07-22,223.0,Clermont-Ferrand,Chalon-sur-Saône,Plain stage,Thierry Marie,FRA,1988,Thierry_Marie,Flat stage,1963-06-25,Bénouville,461.22676357730904,470.1502860304567
+6,1987-07-06,169.0,Strasbourg,Épinal,Plain stage,Christophe Lavainne,FRA,1987,Christophe_Lavainne,Flat stage,1963-12-22,Châteaudun,479.4967181767647,381.42208875699725
+11,1987-07-11,206.0,Poitiers,Chaumeil,Hilly stage,Martial Gayant,FRA,1987,Martial_Gayant,,1962-11-16,Chauny,399.722768825352,
+16,1987-07-16,216.0,Blagnac,Millau,Hilly stage,Régis Clère,FRA,1987,Régis_Clère,,1956-08-15,Langres,560.9284476491704,453.39323613192204
+18,1987-07-19,37.0,Carpentras,Mont Ventoux,Mountain time trial,Jean-François Bernard,FRA,1987,Jean-François_Bernard,Time trial,1962-05-02,Luzy,315.36600109879186,
+21,1987-07-22,185.0,Le Bourg-d'Oisans,La Plagne,Stage with mountain(s),Laurent Fignon,FRA,1987,Laurent_Fignon,Mountain stage,1960-08-12,18e arrondissement de Paris,508.9688502527723,644.7288341037168
+23,1987-07-24,225.0,Saint-Julien-en-Genevois,Dijon,Plain stage,Régis Clère,FRA,1987,Régis_Clère,Flat stage,1956-08-15,Langres,199.64851609293314,64.29239282877982
+24,1987-07-25,38.0,Dijon,Dijon,Individual time trial,Jean-François Bernard,FRA,1987,Jean-François_Bernard,Time trial,1962-05-02,Luzy,100.57745374951921,100.57745374951921
+P,1986-07-04,4.6,Boulogne-Billancourt,Boulogne-Billancourt,Individual time trial,Thierry Marie,FRA,1986,Thierry_Marie,Time trial,1963-06-25,Bénouville,189.70073705918455,189.70073705918455
+9,1986-07-12,61.5,Nantes,Nantes,Individual time trial,Bernard Hinault,FRA,1986,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,163.93233725424065,163.93233725424065
+16,1986-07-19,246.5,Nîmes,Gap,Plain stage,Jean-François Bernard,FRA,1986,Jean-François_Bernard,Flat stage,1962-05-02,Luzy,329.5148677246046,297.3040747936045
+18,1986-07-21,162.5,Briançon,Alpe d'Huez,Stage with mountain(s),Bernard Hinault,FRA,1986,Bernard_Hinault,Mountain stage,1954-11-14,Yffiniac,816.0324213083345,1190.18979058993
+20,1986-07-24,58.0,Saint-Étienne,Saint-Étienne,Individual time trial,Bernard Hinault,FRA,1986,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,634.9195250664935,634.9195250664935
+P,1985-06-28,6.0,Plumelec,Plumelec,Individual time trial,Bernard Hinault,FRA,1985,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,71.97595657153289,71.97595657153289
+6,1985-07-04,222.0,Roubaix,Reims,Plain stage,Francis Castaing,FRA,1985,Francis_Castaing,Flat stage,1959-04-22,Bordeaux,708.5073047374626,602.9770542500825
+8,1985-07-06,75.0,Sarrebourg,Strasbourg,Individual time trial,Bernard Hinault,FRA,1985,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,717.7500357819532,769.5688615482767
+16,1985-07-15,247.0,Aurillac,Toulouse,Plain stage,Frédéric Vichot,FRA,1985,Frédéric_Vichot,Flat stage,1959-05-01,Valay,364.03267082292626,528.5660149969777
+18b,1985-07-17,83.0,Laruns,Pau,Stage with mountain(s),Régis Simon,FRA,1985,Régis_Simon,Mountain stage,1958-03-19,Troyes,686.2319037628325,654.2181277515896
+P,1984-06-29,5.0,Montreuil,Noisy-le-Sec,Individual time trial,Bernard Hinault,FRA,1984,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,389.76699431336897,
+2,1984-07-01,249.0,Bobigny,Louvroil,Plain stage,Marc Madiot,FRA,1984,Marc_Madiot,Flat stage,1959-04-16,Renazé,287.45979163177685,
+7,1984-07-05,67.0,Alençon,Le Mans,Individual time trial,Laurent Fignon,FRA,1984,Laurent_Fignon,Time trial,1960-08-12,18e arrondissement de Paris,175.04147234868444,187.86321440622683
+8,1984-07-06,192.0,Le Mans,Nantes,Plain stage,Pascal Jules,FRA,1984,Pascal_Jules,Flat stage,1961-07-22,La Garenne-Colombes,181.62537859125138,339.7751865878899
+12,1984-07-10,111.0,Saint-Girons,Blagnac,Plain stage,Pascal Poisson,FRA,1984,Pascal_Poisson,Flat stage,1958-06-29,Plancoët,669.2455829274355,609.9038419016468
+13,1984-07-11,220.0,Blagnac,Rodez,Plain stage,Pierre-Henri Menthéour,FRA,1984,Pierre-Henri_Menthéour,Flat stage,1960-05-09,Alger,775.8991570022678,842.2837803637466
+15,1984-07-13,241.0,Domaine du Rouret,Grenoble,Hilly stage,Frédéric Vichot,FRA,1984,Frédéric_Vichot,,1959-05-01,Valay,421.15720279259983,238.975477730899
+16,1984-07-15,22.0,Les Échelles,La Ruchère,Individual time trial,Laurent Fignon,FRA,1984,Laurent_Fignon,Time trial,1960-08-12,18e arrondissement de Paris,461.57344507918555,
+18,1984-07-17,185.0,Le Bourg-d'Oisans,La Plagne,Stage with mountain(s),Laurent Fignon,FRA,1984,Laurent_Fignon,Mountain stage,1960-08-12,18e arrondissement de Paris,508.9688502527723,644.7288341037168
+20,1984-07-19,141.0,Morzine,Crans-Montana,Stage with mountain(s),Laurent Fignon,FRA,1984,Laurent_Fignon,Mountain stage,1960-08-12,18e arrondissement de Paris,444.24027392530587,480.7458066580511
+22,1984-07-21,51.0,Villié-Morgon,Villefranche-sur-Saône,Individual time trial,Laurent Fignon,FRA,1984,Laurent_Fignon,Time trial,1960-08-12,18e arrondissement de Paris,349.50546380038395,
+5,1983-07-06,257.0,Le Havre,Le Mans,Plain stage,Dominique Gaigne,FRA,1983,Dominique_Gaigne,Flat stage,1961-07-03,Pacé,116.88372936254954,50.94215363568615
+9,1983-07-10,207.0,Bordeaux,Pau,Plain stage,Philippe Chevallier,FRA,1983,Philippe_Chevallier,Flat stage,,,,
+11,1983-07-12,177.0,Bagnères-de-Luchon,Fleurance,Plain stage,Régis Clère,FRA,1983,Régis_Clère,Flat stage,1956-08-15,Langres,675.0910911482421,574.8051786715198
+14,1983-07-15,149.0,Aurillac,Issoire,Hilly stage,Pierre Le Bigaut,FRA,1983,Pierre_Le_Bigaut,,1959-09-17,Guémené-sur-Scorff,556.0593569631887,566.5326607946193
+16,1983-07-17,144.0,Issoire,Saint-Étienne,Hilly stage,Michel Laurent,FRA,1983,Michel_Laurent,,,,,
+18,1983-07-20,247.0,Le Bourg-d'Oisans,Morzine,Stage with mountain(s),Jacques Michaud,FRA,1983,Jacques_Michaud,Mountain stage,1951-07-11,Saint-Julien-en-Genevois,121.18466312795972,48.653648334016914
+20,1983-07-22,291.0,Morzine,Dijon,Plain stage,Philippe Leleu,FRA,1983,Philippe_Leleu,Flat stage,1958-03-28,Lamballe,741.5970690802644,578.9897409393383
+21,1983-07-23,50.0,Dijon,Dijon,Individual time trial,Laurent Fignon,FRA,1983,Laurent_Fignon,Time trial,1960-08-12,18e arrondissement de Paris,264.4846010643092,264.4846010643092
+P,1982-07-02,7.0,Basel,Basel,Individual time trial,Bernard Hinault,FRA,1982,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,771.9882150397613,771.9882150397613
+10,1982-07-13,147.0,Saintes,Bordeaux,Plain stage,Pierre-Raymond Villemiane,FRA,1982,Pierre-Raymond_Villemiane,Flat stage,1951-03-12,Pineuilh,121.97145345677663,63.80002613435988
+14,1982-07-18,33.0,Martigues,Martigues,Individual time trial,Bernard Hinault,FRA,1982,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,822.6969533054111,822.6969533054111
+15,1982-07-19,208.0,Manosque,Orcières-Merlette,Stage with mountain(s),Pascal Simon,FRA,1982,Pascal_Simon,Mountain stage,1956-09-27,Mesnil-Saint-Loup,520.4938078850695,446.11689007535415
+19,1982-07-23,48.0,Saint-Priest,Saint-Priest,Individual time trial,Bernard Hinault,FRA,1982,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,693.5380600720451,693.5380600720451
+21,1982-07-25,187.0,Fontenay-sous-Bois,Paris,Plain stage,Bernard Hinault,FRA,1982,Bernard_Hinault,Flat stage,1954-11-14,Yffiniac,381.5558459430588,370.3048787310454
+P,1981-06-25,6.0,Nice,Nice,Individual time trial,Bernard Hinault,FRA,1981,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,933.8211216533098,933.8211216533098
+6,1981-07-01,27.0,Nay,Pau,Individual time trial,Bernard Hinault,FRA,1981,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,618.6597212352319,603.8522805818571
+14,1981-07-10,38.0,Mulhouse,Mulhouse,Individual time trial,Bernard Hinault,FRA,1981,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,749.7158854432647,749.7158854432647
+16,1981-07-12,200.0,Thonon-les-Bains,Morzine,Stage with mountain(s),Robert Alban,FRA,1981,Robert_Alban,Mountain stage,1952-02-09,Saint-André-d'Huiriat,122.0397073828179,138.83682532816303
+18,1981-07-15,134.0,Le Bourg-d'Oisans,Le Pleynet,Stage with mountain(s),Bernard Hinault,FRA,1981,Bernard_Hinault,Mountain stage,1954-11-14,Yffiniac,765.9697736815257,
+20,1981-07-17,46.0,Saint-Priest,Saint-Priest,Individual time trial,Bernard Hinault,FRA,1981,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,693.5380600720451,693.5380600720451
+P,1980-06-26,8.0,Frankfurt,Frankfurt,Individual time trial,Bernard Hinault,FRA,1980,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,844.8509426136101,844.8509426136101
+4,1980-06-30,35.0,Spa,Spa,Individual time trial,Bernard Hinault,FRA,1980,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,657.3109370825485,657.3109370825485
+5,1980-07-01,249.0,Liège,Lille,Plain stage,Bernard Hinault,FRA,1980,Bernard_Hinault,Flat stage,1954-11-14,Yffiniac,642.9398795607848,479.13164615822876
+6,1980-07-02,216.0,Lille,Compiègne,Plain stage,Jean-Louis Gauthier,FRA,1980,Jean-Louis_Gauthier,Flat stage,1955-12-22,Angoulême,594.8935170274906,464.4167926483595
+13,1980-07-10,200.0,Pau,Bagnères-de-Luchon,Stage with mountain(s),Raymond Martin,FRA,1980,Raymond_Martin,Mountain stage,,,,
+15,1980-07-12,160.0,Montpellier,Martigues,Plain stage,Bernard Vallet,FRA,1980,Bernard_Vallet,Flat stage,1954-01-18,Vienne,1094.0937433710872,1027.4768688112706
+17,1980-07-14,242.0,Serre Chevalier,Morzine,Stage with mountain(s),Mariano Martínez,FRA,1980,Mariano_Martínez,Mountain stage,1948-09-20,Burgos,874.0505055956943,932.8713675052056
+1,1979-06-28,225.0,Fleurance,Luchon,Stage with mountain(s),René Bittinger,FRA,1979,René_Bittinger,Mountain stage,1954-10-09,Villé,715.7696424322745,808.8495767444576
+2,1979-06-29,24.0,Luchon,Superbagnères,Individual time trial,Bernard Hinault,FRA,1979,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,682.0153253854741,684.0647547520608
+3,1979-06-30,180.0,Luchon,Pau,Stage with mountain(s),Bernard Hinault,FRA,1979,Bernard_Hinault,Mountain stage,1954-11-14,Yffiniac,682.0153253854741,603.8522805818571
+11,1979-07-08,33.0,Brussels,Brussels,Individual time trial,Bernard Hinault,FRA,1979,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,571.0437882728123,571.0437882728123
+12,1979-07-09,193.0,Rochefort,Metz,Plain stage,Christian Seznec,FRA,1979,Christian_Seznec,Flat stage,1952-11-19,Brest,380.84416259895215,787.5213275896602
+13,1979-07-10,202.0,Metz,Ballon d'Alsace,Hilly stage,Pierre-Raymond Villemiane,FRA,1979,Pierre-Raymond_Villemiane,,1951-03-12,Pineuilh,657.1358116799605,
+15,1979-07-12,54.0,Évian-les-Bains,Morzine Avoriaz,Individual time trial,Bernard Hinault,FRA,1979,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,735.7724227040734,757.4593115352588
+21,1979-07-19,49.0,Dijon,Dijon,Individual time trial,Bernard Hinault,FRA,1979,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,591.0936439110022,591.0936439110022
+23,1979-07-21,205.0,Auxerre,Nogent-sur-Marne,Plain stage,Bernard Hinault,FRA,1979,Bernard_Hinault,Flat stage,1954-11-14,Yffiniac,471.0725589954269,382.7046387256681
+24,1979-07-22,180.0,Le Perreux-sur-Marne,Paris,Plain stage,Bernard Hinault,FRA,1979,Bernard_Hinault,Flat stage,1954-11-14,Yffiniac,383.88904099195884,370.3048787310454
+2,1978-07-01,199.0,Brussels,Saint-Amand-les-Eaux,Plain stage,Jacques Esclassan,FRA,1978,Jacques_Esclassan,Flat stage,1948-09-03,Castres,140.43565463088532,72.98446891520328
+8,1978-07-07,59.0,Saint-Émilion,Sainte-Foy-la-Grande,Individual time trial,Bernard Hinault,FRA,1978,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,443.315618873141,461.4196811975321
+11,1978-07-11,161.0,Pau,Saint-Lary-Soulan Pla d'Adet,Stage with mountain(s),Mariano Martínez,FRA,1978,Mariano_Martínez,Mountain stage,1948-09-20,Burgos,291.9828979318657,
+12b,1978-07-12,96.0,Valence d'Agen,Toulouse,Plain stage,Jacques Esclassan,FRA,1978,Jacques_Esclassan,Flat stage,1948-09-03,Castres,657.5868370060797,702.6867078907032
+15,1978-07-15,196.0,Saint-Dier-d'Auvergne,Saint-Étienne,Hilly stage,Bernard Hinault,FRA,1978,Bernard_Hinault,,1954-11-14,Yffiniac,562.0925206950756,634.9195250664935
+17,1978-07-18,225.0,Grenoble,Morzine,Stage with mountain(s),Christian Seznec,FRA,1978,Christian_Seznec,Mountain stage,1952-11-19,Brest,856.9580234391123,880.9235764480974
+20,1978-07-21,72.0,Metz,Nancy,Individual time trial,Bernard Hinault,FRA,1978,Bernard_Hinault,Time trial,1954-11-14,Yffiniac,653.808639654387,653.6814328122053
+1,1977-07-01,237.0,Fleurance,Auch,Plain stage,Pierre-Raymond Villemiane,FRA,1977,Pierre-Raymond_Villemiane,Flat stage,1951-03-12,Pineuilh,114.44441602726927,134.6268571273966
+4,1977-07-04,256.0,Vitoria-Gasteiz,Seignosse le Penon,Stage with mountain(s),Régis Delépine,FRA,1977,Régis_Delépine,Mountain stage,1946-12-22,La Bohalle,539.7778217360683,
+5a,1977-07-05,139.0,Morcenx,Bordeaux,Plain stage,Jacques Esclassan,FRA,1977,Jacques_Esclassan,Flat stage,1948-09-03,Castres,715.0337058513327,622.5337575373144
+11,1977-07-12,242.0,Rouen,Roubaix,Plain stage,Jean-Pierre Danguillaume,FRA,1977,Jean-Pierre_Danguillaume,Flat stage,1946-05-25,Joué-lès-Tours,234.5190236269783,414.3814655509555
+13b,1977-07-14,160.0,Altkirch ,Besançon,Plain stage,Jean-Pierre Danguillaume,FRA,1977,Jean-Pierre_Danguillaume,Flat stage,1946-05-25,Joué-lès-Tours,496.4982638819246,405.68972615131537
+14,1977-07-16,230.0,Besançon,Thonon-les-Bains,Stage with mountain(s),Bernard Quilfen,FRA,1977,Bernard_Quilfen,Mountain stage,1949-04-20,Argenteuil,339.4546903592754,427.53984103793306
+20,1977-07-22,50.0,Dijon,Dijon,Individual time trial,Bernard Thévenet,FRA,1977,Bernard_Thévenet,Time trial,1948-01-10,Saint-Julien-de-Civry,122.90292726061409,122.90292726061409
+22b,1977-07-24,91.0,Paris,Paris,Plain stage,Alain Meslet,FRA,1977,Alain_Meslet,Flat stage,1950-02-08,Averton,196.56929283469805,196.56929283469805
+8,1976-07-02,220.0,Valentigney,Divonne-les-Bains,Flat Stage,Jacques Esclassan,FRA,1976,Jacques_Esclassan,Flat stage,1948-09-03,Castres,371.33926291713396,440.093351749533
+12,1976-07-08,205.0,Le Barcarès,Pyrénées 2000,Mountain Stage,Raymond Delisle,FRA,1976,Raymond_Delisle,Mountain stage,1943-03-11,Ancteville,783.2598657713265,
+19,1976-07-15,220.0,Sainte-Foy-la-Grande,Tulle,Flat Stage,Hubert Mathis,FRA,1976,Hubert_Mathis,Flat stage,1950-03-12,Renansart,596.7760104799664,512.6825704677988
+4,1975-06-30,223.0,Versailles,Le Mans,Plain stage,Jacques Esclassan,FRA,1975,Jacques_Esclassan,Flat stage,1948-09-03,Castres,137.57260197575584,299.3821922387191
+15,1975-07-13,217.0,Nice,Pra-Loup,Stage with mountain(s),Bernard Thévenet,FRA,1975,Bernard_Thévenet,Mountain stage,1948-01-10,Saint-Julien-de-Civry,380.6367779620884,
+16,1975-07-14,107.0,Barcelonnette,Serre Chevalier,Stage with mountain(s),Bernard Thévenet,FRA,1975,Bernard_Thévenet,Mountain stage,1948-01-10,Saint-Julien-de-Civry,290.3127515201726,242.47079676914214
+6a,1974-07-03,239.0,Dieppe,Harelbeke,Plain stage,Jean-Luc Molineris,FRA,1974,Jean-Luc_Molineris,Flat stage,1950-08-25,Grenoble,632.3438941160806,
+8a,1974-07-05,136.0,Châlons-sur-Marne,Chaumont,Plain stage,Cyrille Guimard,FRA,1974,Cyrille_Guimard,Flat stage,1947-01-20,Bouguenais,487.7699671868506,518.4094912664783
+14,1974-07-12,249.0,Lodève,Colomiers,Plain stage,Jean-Pierre Genet,FRA,1974,Jean-Pierre_Genet,Flat stage,1962-10-15,Châtellerault,406.20220897259856,361.54762549436396
+16,1974-07-15,209.0,La Seu d'Urgell,Saint-Lary-Soulan Pla d'Adet,Stage with mountain(s),Raymond Poulidor,FRA,1974,Raymond_Poulidor,Mountain stage,1936-04-15,Masbaraud-Mérignat,401.95633308055295,
+17,1974-07-16,119.0,Saint-Lary-Soulan,La Mongie,Stage with mountain(s),Jean-Pierre Danguillaume,FRA,1974,Jean-Pierre_Danguillaume,Mountain stage,1946-05-25,Joué-lès-Tours,504.6091529480437,
+18,1974-07-17,141.0,Bagnères-de-Bigorre,Pau,Stage with mountain(s),Jean-Pierre Danguillaume,FRA,1974,Jean-Pierre_Danguillaume,Mountain stage,1946-05-25,Joué-lès-Tours,477.9234491252055,457.88131697895346
+19a,1974-07-18,196.0,Pau,Bordeaux,Plain stage,Francis Campaner,FRA,1974,Francis_Campaner,Flat stage,,Saint-Germain-de-la-Rivière,183.92515342366778,22.98839063624152
+1b,1973-07-01,137.5,Rotterdam,Sint-Niklaas,Plain stage,José Catieau,FRA,1973,José_Catieau,Flat stage,1946-07-17,Coutiches,186.48581049575668,103.19197628477615
+3,1973-07-03,226.0,Roubaix,Reims,Plain stage,Cyrille Guimard,FRA,1973,Cyrille_Guimard,Flat stage,1947-01-20,Bouguenais,525.2459823597195,479.42347890932564
+6,1973-07-06,244.5,Mulhouse,Divonne-les-Bains,Stage with mountain(s),Jean-Pierre Danguillaume,FRA,1973,Jean-Pierre_Danguillaume,Mountain stage,1946-05-25,Joué-lès-Tours,504.34543815495255,431.9439777529574
+7b,1973-07-08,150.5,Gaillard,Méribel,Stage with mountain(s),Bernard Thévenet,FRA,1973,Bernard_Thévenet,Mountain stage,1948-01-10,Saint-Julien-de-Civry,153.86224518694183,
+17,1973-07-19,248.0,Sainte-Foy-la-Grande,Brive-la-Gaillarde,Plain stage,Claude Tollet,FRA,1973,Claude_Tollet,Flat stage,1949-04-24,Roisel,607.6848456273253,545.0944720118678
+20b,1973-07-22,89.0,Versailles,Paris,Plain stage,Bernard Thévenet,FRA,1973,Bernard_Thévenet,Flat stage,1948-01-10,Saint-Julien-de-Civry,313.9115586342103,312.2508908865631
+1,1972-07-02,235.5,Angers,Saint-Brieuc,Plain stage,Cyrille Guimard,FRA,1972,Cyrille_Guimard,Flat stage,1947-01-20,Bouguenais,87.39203001435001,171.07492339777716
+4,1972-07-05,236.0,Merlin-Plage,Royan,Plain stage,Cyrille Guimard,FRA,1972,Cyrille_Guimard,Flat stage,1947-01-20,Bouguenais,453.94453620166445,178.77169867868284
+7,1972-07-09,220.5,Bayonne,Pau,Stage with mountain(s),Yves Hézard,FRA,1972,Yves_Hézard,Mountain stage,1948-10-20,Donzy,561.178060888401,529.0308576920614
+11,1972-07-13,207.0,Carnon-Plage,Mont Ventoux,Stage with mountain(s),Bernard Thévenet,FRA,1972,Bernard_Thévenet,Mountain stage,1948-01-10,Saint-Julien-de-Civry,313.82565782467725,
+14b,1972-07-17,151.0,Valloire,Aix-les-Bains,Stage with mountain(s),Cyrille Guimard,FRA,1972,Cyrille_Guimard,Mountain stage,1947-01-20,Bouguenais,660.5259839827352,602.2894591279634
+15,1972-07-18,28.0,Aix-les-Bains,Le Revard,Stage with mountain(s),Cyrille Guimard,FRA,1972,Cyrille_Guimard,Mountain stage,1947-01-20,Bouguenais,602.2894591279634,
+17,1972-07-20,213.0,Pontarlier,Ballon d’Alsace,Hilly stage,Bernard Thévenet,FRA,1972,Bernard_Thévenet,,1948-01-10,Saint-Julien-de-Civry,173.18472281853536,
+4,1971-06-30,242.0,Nancy,Marche-en-Famenne,Plain stage,Jean-Pierre Genet,FRA,1971,Jean-Pierre_Genet,Flat stage,1962-10-15,Châtellerault,471.1760950651854,
+10,1971-07-07,188.5,Saint-Étienne,Grenoble,Stage with mountain(s),Bernard Thévenet,FRA,1971,Bernard_Thévenet,Mountain stage,1948-01-10,Saint-Julien-de-Civry,103.55993240289426,175.54171742691568
+16a,1971-07-14,145.0,Luchon,Gourette,Stage with mountain(s),Bernard Labourdette,FRA,1971,Bernard_Labourdette,Mountain stage,1946-08-13,Lurbe-Saint-Christau,104.38073784909021,28.411520383956773
+18,1971-07-16,244.0,Bordeaux,Poitiers,Plain stage,Jean-Pierre Danguillaume,FRA,1971,Jean-Pierre_Danguillaume,Flat stage,1946-05-25,Joué-lès-Tours,295.047362840081,89.13182448183792
+1,1970-06-27,224.5,Limoges,La Rochelle,Plain stage,Cyrille Guimard,FRA,1970,Cyrille_Guimard,Flat stage,1947-01-20,Bouguenais,267.2631611289333,119.00523218930226
+8,1970-07-04,232.5,Ciney,Felsberg,Plain stage,Alain Vasseur,FRA,1970,Alain_Vasseur,Flat stage,1948-04-01,Cappelle-la-Grande,208.4363969252991,
+18,1970-07-14,135.5,Saint-Gaudens,La Mongie,Stage with mountain(s),Bernard Thévenet,FRA,1970,Bernard_Thévenet,Mountain stage,1948-01-10,Saint-Julien-de-Civry,456.23782729796665,
+19,1970-07-15,185.5,Bagnères-de-Bigorre,Mourenx,Stage with mountain(s),Christian Raymond,FRA,1970,Christian_Raymond,Mountain stage,,,,
+22,1970-07-18,238.5,Tours,Versailles,Plain stage,Jean-Pierre Danguillaume,FRA,1970,Jean-Pierre_Danguillaume,Flat stage,1946-05-25,Joué-lès-Tours,4.7747640504969056,194.89926944844626
+9,1969-07-07,111.0,Thonon-les-Bains,Chamonix,Stage with mountain(s),Roger Pingeon,FRA,1969,Roger_Pingeon,Mountain stage,1940-08-28,Hauteville-Lompnes,83.14410282644249,100.46073819645837
+16,1969-07-14,199.0,Castelnaudary,Luchon,Stage with mountain(s),Raymond Delisle,FRA,1969,Raymond_Delisle,Mountain stage,1943-03-11,Ancteville,695.1307409761323,719.6247116152908
+20,1969-07-18,198.0,Brive,Puy de Dôme,Stage with mountain(s),Pierre Matignon,FRA,1969,Pierre_Matignon,Mountain stage,1943-02-11,Les Verchers-sur-Layon,471.0304717623566,301.88084415180674
+1a,1968-06-27,6.1,Vittel,Vittel,Individual time trial,Charly Grosskost,FRA,1968,Charly_Grosskost,Time trial,1944-03-05,Eckbolsheim,136.01478353020156,136.01478353020156
+1b,1968-06-28,189.0,Vittel,Esch-sur-Alzette,Plain stage,Charly Grosskost,FRA,1968,Charly_Grosskost,Flat stage,1944-03-05,Eckbolsheim,136.01478353020156,160.8348639028997
+4,1968-07-01,238.0,Roubaix,Rouen,Plain stage,Georges Chappe,FRA,1968,Georges_Chappe,Flat stage,1944-03-05,Marseille,838.8426095106394,757.7993107045032
+5a,1968-07-02,165.0,Rouen,Bagnoles-de-l'Orne,Plain stage,André Desvages,FRA,1968,André_Desvages,Flat stage,1944-03-12,Graye-sur-Mer,114.30205863620674,86.37949737263216
+5b,1968-07-02,154.5,Bagnoles-de-l'Orne,Dinard,Plain stage,Jean Dumont,FRA,1968,Jean_Dumont,Flat stage,,,,
+10,1968-07-08,202.5,Bordeaux,Bayonne,Plain stage,Gilbert Bellone,FRA,1968,Gilbert_Bellone,Flat stage,1942-12-27,Grasse,613.3157711979833,678.3896360209015
+15,1968-07-14,250.5,Font-Romeu-Odeillo-Via,Albi,Plain stage,Roger Pingeon,FRA,1968,Roger_Pingeon,Flat stage,1940-08-28,Hauteville-Lompnes,477.53025503464806,352.6682477704914
+17,1968-07-16,236.5,Aurillac,Saint-Étienne,Stage with mountain(s),Jean-Pierre Genet,FRA,1968,Jean-Pierre_Genet,Mountain stage,1962-10-15,Châtellerault,256.51348118148456,334.0059160561107
+18,1968-07-17,235.0,Saint-Étienne,Grenoble,Stage with mountain(s),Roger Pingeon,FRA,1968,Roger_Pingeon,Mountain stage,1940-08-28,Hauteville-Lompnes,109.40896893266729,86.97566257193694
+22a,1968-07-21,136.0,Auxerre,Melun,Plain stage,Maurice Izier,FRA,1968,Maurice_Izier,Flat stage,1944-03-18,Crest,358.9241967387336,460.67140295519386
+5a,1967-07-04,172.0,Roubaix,Jambes,Plain stage,Roger Pingeon,FRA,1967,Roger_Pingeon,Flat stage,1940-08-28,Hauteville-Lompnes,555.199936839474,502.7456909249815
+8,1967-07-07,215.0,Strasbourg,Belfort/Ballon d’Alsace,Stage with mountain(s),Lucien Aimar,FRA,1967,Lucien_Aimar,Mountain stage,1941-04-28,Hyères,620.2185866443831,
+11,1967-07-11,197.0,Briançon,Digne,Stage with mountain(s),José Samyn,FRA,1967,José_Samyn,Mountain stage,1946-05-11,Quiévrain (Belgique),651.2420139238837,727.8472523995576
+12,1967-07-12,207.5,Digne,Marseille,Plain stage,Raymond Riotte,FRA,1967,Raymond_Riotte,Flat stage,1940-02-16,Sarry,554.7201586112832,629.5242714854137
+17,1967-07-18,250.0,Luchon,Pau,Stage with mountain(s),Raymond Mastrotto,FRA,1967,Raymond_Mastrotto,Mountain stage,1934-11-01,Auch,95.02193410527886,86.43594520277414
+19,1967-07-20,217.0,Bordeaux,Limoges,Plain stage,Jean Stablinski,FRA,1967,Jean_Stablinski,Flat stage,1932-05-21,Thun-Saint-Amand,696.3877632403519,541.8772686671218
+21,1967-07-22,359.0,Clermont-Ferrand,Fontainebleau,Plain stage,Paul Lemeteyer,FRA,1967,Paul_Lemeteyer,Flat stage,1942-06-04,Nantes,390.20197998378103,344.89035032240474
+22b,1967-07-23,46.6,Versailles,Paris,Individual time trial,Raymond Poulidor,FRA,1967,Raymond_Poulidor,Time trial,1936-04-15,Masbaraud-Mérignat,316.5767708957488,324.47193064566767
+14b,1966-07-05,20.0,Vals-les-Bains,Vals-les-Bains,Individual time trial,Raymond Poulidor,FRA,1966,Raymond_Poulidor,Time trial,1936-04-15,Masbaraud-Mérignat,254.93709059386876,254.93709059386876
+21,1966-07-13,232.0,Montluçon,Orléans,Plain stage,Pierre Beuffeuil,FRA,1966,Pierre_Beuffeuil,Flat stage,1934-10-30,L'Éguille,286.26804081394243,328.7469304587123
+5b,1965-06-26,26.7,Châteaulin,Châteaulin,Individual time trial,Raymond Poulidor,FRA,1965,Raymond_Poulidor,Time trial,1936-04-15,Masbaraud-Mérignat,504.5838062691712,504.5838062691712
+14,1965-07-06,173.0,Montpellier,Mont Ventoux,Stage with mountain(s),Raymond Poulidor,FRA,1965,Raymond_Poulidor,Mountain stage,1936-04-15,Masbaraud-Mérignat,313.60764400682564,
+2,1964-06-23,208.0,Lisieux,Amiens,Plain stage,André Darrigade,FRA,1964,André_Darrigade,Flat stage,1929-04-24,Narrosse,613.3291505642228,733.6897590183072
+9,1964-06-30,239.0,Briançon,Monaco,Stage with mountain(s),Jacques Anquetil,FRA,1964,Jacques_Anquetil,Mountain stage,1934-01-08,Mont-Saint-Aignan,659.7900403730564,801.2355457222847
+10b,1964-07-01,21.0,Hyères,Toulon,Individual time trial,Jacques Anquetil,FRA,1964,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,805.2790092548813,797.4517352237999
+15,1964-07-07,203.0,Toulouse,Luchon,Stage with mountain(s),Raymond Poulidor,FRA,1964,Raymond_Poulidor,Mountain stage,1936-04-15,Masbaraud-Mérignat,263.7444972969693,364.2288430559773
+17,1964-07-09,43.0,Peyrehorade,Bayonne,Individual time trial,Jacques Anquetil,FRA,1964,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,679.4625521202221,692.4290883154378
+18,1964-07-10,187.0,Bayonne,Bordeaux,Plain stage,André Darrigade,FRA,1964,André_Darrigade,Flat stage,1929-04-24,Narrosse,43.86720816281044,131.90459256002444
+21,1964-07-13,311.0,Clermont-Ferrand,Orléans,Plain stage,Jean Stablinski,FRA,1964,Jean_Stablinski,Flat stage,1932-05-21,Thun-Saint-Amand,524.1678751918869,308.32827206378
+22b,1964-07-14,27.0,Versailles,Paris,Individual time trial,Jacques Anquetil,FRA,1964,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,106.19775239669006,112.91059432275823
+6b,1963-06-28,25.0,Angers,Angers,Individual time trial,Jacques Anquetil,FRA,1963,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,252.44993046159402,252.44993046159402
+10,1963-07-02,148.0,Pau,Bagnères-de-Bigorre,Stage with mountain(s),Jacques Anquetil,FRA,1963,Jacques_Anquetil,Mountain stage,1934-01-08,Mont-Saint-Aignan,695.0573072591427,715.205055457537
+11,1963-07-03,131.0,Bagnères-de-Bigorre,Luchon,Stage with mountain(s),Guy Ignolin,FRA,1963,Guy_Ignolin,Mountain stage,1936-11-14,Vernou-sur-Brenne,486.9326602057361,514.7971793481955
+12,1963-07-04,173.0,Luchon,Toulouse,Stage with mountain(s),André Darrigade,FRA,1963,André_Darrigade,Mountain stage,1929-04-24,Narrosse,164.13606435924336,198.06566483840587
+14,1963-07-07,237.0,Aurillac,Saint-Étienne,Plain stage,Guy Ignolin,FRA,1963,Guy_Ignolin,Flat stage,1936-11-14,Vernou-sur-Brenne,303.08722067543687,349.88771477306
+17,1963-07-10,228.0,Val d'Isère,Chamonix,Stage with mountain(s),Jacques Anquetil,FRA,1963,Jacques_Anquetil,Mountain stage,1934-01-08,Mont-Saint-Aignan,630.0412971957621,586.3550309056053
+19,1963-07-12,54.0,Arbois,Besançon,Individual time trial,Jacques Anquetil,FRA,1963,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,450.4254420089366,442.23302547000924
+2a,1962-06-25,147.0,Spa,Herentals,Plain stage,André Darrigade,FRA,1962,André_Darrigade,Flat stage,1929-04-24,Narrosse,917.3663604592201,941.520771323409
+6,1962-06-29,235.5,Dinard,Brest,Plain stage,Robert Cazala,FRA,1962,Robert_Cazala,Flat stage,1934-01-07,Bellocq,575.3172356962274,608.075425763409
+8b,1962-07-01,43.0,Luçon,La Rochelle,Individual time trial,Jacques Anquetil,FRA,1962,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,374.5408869552615,404.08450509827367
+12,1962-07-05,207.5,Pau,Saint-Gaudens,Stage with mountain(s),Robert Cazala,FRA,1962,Robert_Cazala,Mountain stage,1934-01-07,Bellocq,50.7906899056095,140.74726361741293
+14,1962-07-07,215.0,Luchon,Carcassonne,Stage with mountain(s),Jean Stablinski,FRA,1962,Jean_Stablinski,Mountain stage,1932-05-21,Thun-Saint-Amand,882.6540205691973,812.7329159307907
+19,1962-07-12,204.5,Briançon,Aix-les-Bains,Stage with mountain(s),Raymond Poulidor,FRA,1962,Raymond_Poulidor,Mountain stage,1936-04-15,Masbaraud-Mérignat,404.54991178150624,328.78944879236036
+20,1962-07-13,68.0,Bourgoin,Lyon,Individual time trial,Jacques Anquetil,FRA,1962,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,534.8448682943198,499.5264874194285
+1a,1961-06-25,136.5,Rouen,Versailles,Plain stage,André Darrigade,FRA,1961,André_Darrigade,Flat stage,1929-04-24,Narrosse,658.659166996983,617.0477497348046
+1b,1961-06-25,28.5,Versailles,Versailles,Individual time trial,Jacques Anquetil,FRA,1961,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,106.19775239669006,106.19775239669006
+2,1961-06-26,230.5,Pontoise,Roubaix,Plain stage,André Darrigade,FRA,1961,André_Darrigade,Flat stage,1929-04-24,Narrosse,641.4930117959824,839.6136645633408
+4,1961-06-28,237.5,Charleroi,Metz,Plain stage,Anatole Novak,FRA,1961,Anatole_Novak,Flat stage,1937-02-12,La Mure,620.6514267423896,469.6121635038529
+5,1961-06-29,221.0,Metz,Strasbourg,Stage with mountain(s),Louis Bergaud,FRA,1961,Louis_Bergaud,Mountain stage,1928-11-30,Jaleyrac,516.4809071758777,551.2656293985991
+7,1961-07-01,214.5,Belfort,Chalon-sur-Saône,Plain stage,Jean Stablinski,FRA,1961,Jean_Stablinski,Flat stage,1932-05-21,Thun-Saint-Amand,403.0560950188365,423.8450619571186
+8,1961-07-02,240.5,Chalon-sur-Saône,Saint-Étienne,Stage with mountain(s),Jean Forestier,FRA,1961,Jean_Forestier,Mountain stage,1930-10-07,Lyon,114.62344625760696,49.501312049018956
+10,1961-07-04,250.5,Grenoble,Turin,Stage with mountain(s),Guy Ignolin,FRA,1961,Guy_Ignolin,Mountain stage,1936-11-14,Vernou-sur-Brenne,450.87278257275284,588.1449782884243
+13,1961-07-07,177.5,Aix-en-Provence,Montpellier,Plain stage,André Darrigade,FRA,1961,André_Darrigade,Flat stage,1929-04-24,Narrosse,521.2989273239181,394.09442317041504
+19,1961-07-14,74.5,Bergerac,Périgueux,Individual time trial,Jacques Anquetil,FRA,1961,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,514.9730000119837,476.28964723114035
+20,1961-07-15,309.5,Périgueux,Tours,Plain stage,André Darrigade,FRA,1961,André_Darrigade,Flat stage,1929-04-24,Narrosse,215.69660895221176,431.5352027970226
+21,1961-07-16,252.5,Tours,Paris,Plain stage,Robert Cazala,FRA,1961,Robert_Cazala,Flat stage,1934-01-07,Bellocq,448.35958273992327,644.0469694704079
+1b,1960-06-26,27.8,Brussels,Brussels,Individual time trial,Roger Rivière,FRA,1960,Roger_Rivière,Time trial,1936-02-23,Saint-Étienne,601.160976011532,601.160976011532
+2,1960-06-27,206.0,Brussels,Dunkirk,Plain stage,René Privat,FRA,1960,René_Privat,Flat stage,1930-12-04,Coux,709.7300732113173,668.9327553112682
+4,1960-06-29,211.0,Dieppe,Caen,Plain stage,Jean Graczyk,FRA,1960,Jean_Graczyk,Flat stage,1933-05-26,Neuvy-sur-Barangeon,302.8926530094297,284.4032885285171
+5,1960-06-30,189.0,Caen,Saint-Malo,Plain stage,André Darrigade,FRA,1960,André_Darrigade,Flat stage,1929-04-24,Narrosse,611.9019766350402,556.3301761475291
+6,1960-07-01,191.0,Saint-Malo,Lorient,Plain stage,Roger Rivière,FRA,1960,Roger_Rivière,Flat stage,1936-02-23,Saint-Étienne,603.6675804823234,646.7744983473436
+10,1960-07-05,228.0,Mont-de-Marsan,Pau,Stage with mountain(s),Roger Rivière,FRA,1960,Roger_Rivière,Mountain stage,1936-02-23,Saint-Étienne,424.06336877912224,447.6374052985175
+12,1960-07-07,176.0,Luchon,Toulouse,Stage with mountain(s),Jean Graczyk,FRA,1960,Jean_Graczyk,Mountain stage,1933-05-26,Neuvy-sur-Barangeon,519.4942903234466,417.1993270782087
+13,1960-07-08,224.0,Toulouse,Millau,Plain stage,Louis Proost,FRA,1960,Louis_Proost,Flat stage,1935-04-07,Halle,1178.8246771158979,1055.577201627666
+17,1960-07-13,229.0,Briançon,Aix-les-Bains,Stage with mountain(s),Jean Graczyk,FRA,1960,Jean_Graczyk,Mountain stage,1933-05-26,Neuvy-sur-Barangeon,432.61377984173464,333.9813068223369
+20,1960-07-16,229.0,Besançon,Troyes,Plain stage,Pierre Beuffeuil,FRA,1960,Pierre_Beuffeuil,Flat stage,1934-10-30,L'Éguille,563.7959861093258,479.97114254473695
+21,1960-07-17,200.0,Troyes,Paris,Plain stage,Jean Graczyk,FRA,1960,Jean_Graczyk,Flat stage,1933-05-26,Neuvy-sur-Barangeon,174.65667868474296,171.77057822673603
+1,1959-06-25,238.0,Mulhouse,Metz,Plain stage,André Darrigade,FRA,1959,André_Darrigade,Flat stage,1929-04-24,Narrosse,789.922393486527,817.0842645582643
+3,1959-06-27,217.0,Namur,Roubaix,Plain stage,Robert Cazala,FRA,1959,Robert_Cazala,Flat stage,1934-01-07,Bellocq,888.3878749136943,855.5805819487365
+5,1959-06-29,286.0,Rouen,Rennes,Plain stage,Jean Graczyk,FRA,1959,Jean_Graczyk,Flat stage,1933-05-26,Neuvy-sur-Barangeon,251.53588584662575,308.24298404764426
+6,1959-06-30,45.0,Blain,Nantes,Individual time trial,Roger Rivière,FRA,1959,Roger_Rivière,Time trial,1936-02-23,Saint-Étienne,523.7481762541732,498.2197578446801
+7,1959-07-01,190.0,Nantes,La Rochelle,Plain stage,Roger Hassenforder,FRA,1959,Roger_Hassenforder,Flat stage,1930-07-23,Sausheim,675.0830768030273,673.0324737606071
+8,1959-07-02,201.0,La Rochelle,Bordeaux,Plain stage,Michel Dejouhannet,FRA,1959,Michel_Dejouhannet,Flat stage,1935-07-05,Châteauroux,229.29758412941567,281.30590694626517
+9,1959-07-03,207.0,Bordeaux,Bayonne,Plain stage,Marcel Queheille,FRA,1959,Marcel_Queheille,Flat stage,1930-03-16,Sauguis-Saint-Étienne,188.3224197559447,61.25000254536372
+11,1959-07-06,119.0,Bagnères-de-Bigorre,Saint-Gaudens,Stage with mountain(s),André Darrigade,FRA,1959,André_Darrigade,Mountain stage,1929-04-24,Narrosse,117.17170583188872,154.74625287051552
+13,1959-07-08,219.0,Albi,Aurillac,Stage with mountain(s),Henry Anglade,FRA,1959,Henry_Anglade,Mountain stage,1933-07-06,Thionville,677.3187934965644,567.5366785570352
+14,1959-07-09,231.0,Aurillac,Clermont-Ferrand,Stage with mountain(s),André Le Dissez,FRA,1959,André_Le_Dissez,Mountain stage,1929-11-11,Plougonven,616.854747594811,598.4864570729819
+21,1959-07-17,69.0,Seurre,Dijon,Individual time trial,Roger Rivière,FRA,1959,Roger_Rivière,Time trial,1936-02-23,Saint-Étienne,183.0234023111874,215.1051856467899
+22,1959-07-18,331.0,Dijon,Paris,Plain stage,Joseph Groussard,FRA,1959,Joseph_Groussard,Flat stage,1934-03-02,La Chapelle-Janson,473.65122976631375,258.62203862846286
+1,1958-06-26,184.0,Brussels,Ghent,Plain stage,André Darrigade,FRA,1958,André_Darrigade,Flat stage,1929-04-24,Narrosse,892.0008030267842,892.3798478422331
+3,1958-06-28,177.0,Dunkirk,Mers-les-Bains,Plain stage,Gilbert Bauvin,FRA,1958,Gilbert_Bauvin,Flat stage,1927-08-04,Lunéville,401.81543812264835,
+4,1958-06-29,205.0,Le Tréport,Versailles,Plain stage,Jean Gainche,FRA,1958,Jean_Gainche,Flat stage,1932-08-12,Remungol,391.08845492655706,383.43172796670177
+5,1958-06-30,232.0,Versailles,Caen,Plain stage,Tino Sabbadini,FRA,1958,Tino_Sabbadini,Flat stage,1928-08-22,Monsempron-Libos,487.12253681843583,529.8311492976098
+9,1958-07-04,206.0,Quimper,Saint-Nazaire,Plain stage,André Darrigade,FRA,1958,André_Darrigade,Flat stage,1929-04-24,Narrosse,535.0167292102179,408.75460897850627
+13,1958-07-08,230.0,Dax,Pau,Stage with mountain(s),Louis Bergaud,FRA,1958,Louis_Bergaud,Mountain stage,1928-11-30,Jaleyrac,322.45604373753974,309.24243447227934
+15,1958-07-10,176.0,Luchon,Toulouse,Stage with mountain(s),André Darrigade,FRA,1958,André_Darrigade,Mountain stage,1929-04-24,Narrosse,164.13606435924336,198.06566483840587
+17,1958-07-12,189.0,Béziers,Nîmes,Plain stage,André Darrigade,FRA,1958,André_Darrigade,Flat stage,1929-04-24,Narrosse,343.4607590531596,432.43591300213444
+22,1958-07-17,237.0,Aix-les-Bains,Besançon,Stage with mountain(s),André Darrigade,FRA,1958,André_Darrigade,Mountain stage,1929-04-24,Narrosse,591.5249413743696,675.9742071080686
+1,1957-06-27,204.0,Nantes,Granville,Plain stage,André Darrigade,FRA,1957,André_Darrigade,Flat stage,1929-04-24,Narrosse,393.98325745892635,573.4687087311819
+2,1957-06-28,226.0,Granville,Caen,Plain stage,René Privat,FRA,1957,René_Privat,Flat stage,1930-12-04,Coux,402.1946658141414,430.1289752050914
+3b,1957-06-29,134.0,Caen,Rouen,Plain stage,Jacques Anquetil,FRA,1957,Jacques_Anquetil,Flat stage,1934-01-08,Mont-Saint-Aignan,109.76090381636483,3.187104322989795
+5,1957-07-01,170.0,Roubaix,Charleroi,Plain stage,Gilbert Bauvin,FRA,1957,Gilbert_Bauvin,Flat stage,1927-08-04,Lunéville,334.5655477484055,250.9875864486818
+6,1957-07-02,248.0,Charleroi,Metz,Plain stage,André Trochut,FRA,1957,André_Trochut,Flat stage,1931-10-06,Chermignac,649.1135263490165,642.3558731770397
+7,1957-07-03,223.0,Metz,Colmar,Stage with mountain(s),Roger Hassenforder,FRA,1957,Roger_Hassenforder,Mountain stage,1930-07-23,Sausheim,172.4815444747263,32.235160920553454
+9,1957-07-05,188.0,Besançon,Thonon-les-Bains,Plain stage,Jacques Anquetil,FRA,1957,Jacques_Anquetil,Flat stage,1934-01-08,Mont-Saint-Aignan,442.23302547000924,529.94580990636
+11,1957-07-08,286.0,Briançon,Cannes,Stage with mountain(s),René Privat,FRA,1957,René_Privat,Mountain stage,1930-12-04,Coux,556.4085314637107,621.9061282037917
+12,1957-07-09,239.0,Cannes,Marseille,Stage with mountain(s),Jean Stablinski,FRA,1957,Jean_Stablinski,Mountain stage,1932-05-21,Thun-Saint-Amand,816.832936955317,812.4159521181022
+14,1957-07-11,246.0,Alès,Perpignan,Plain stage,Roger Hassenforder,FRA,1957,Roger_Hassenforder,Flat stage,1930-07-23,Sausheim,480.1626578036079,665.6656909207086
+15a,1957-07-12,197.0,Perpignan,Barcelona,Plain stage,René Privat,FRA,1957,René_Privat,Flat stage,1930-12-04,Coux,392.84589595979975,484.09823522843294
+15b,1957-07-12,9.8,Montjuïc circuit,Montjuïc circuit,Individual time trial,Jacques Anquetil,FRA,1957,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,904.552582759388,904.552582759388
+16,1957-07-14,220.0,Barcelona ,Ax-les-Thermes,Stage with mountain(s),Jean Bourlès,FRA,1957,Jean_Bourlès,Mountain stage,1930-08-17,Pleyber-Christ,923.758270030778,781.8491908253284
+20,1957-07-18,66.0,Bordeaux,Libourne,Individual time trial,Jacques Anquetil,FRA,1957,Jacques_Anquetil,Time trial,1934-01-08,Mont-Saint-Aignan,529.533284087496,516.1702239195772
+21,1957-07-19,317.0,Libourne,Tours,Plain stage,André Darrigade,FRA,1957,André_Darrigade,Flat stage,1929-04-24,Narrosse,148.54669388844204,431.5352027970226
+22,1957-07-20,227.0,Tours,Paris,Plain stage,André Darrigade,FRA,1957,André_Darrigade,Flat stage,1929-04-24,Narrosse,431.5352027970226,628.5805941657455
+1,1956-07-05,223.0,Reims,Liège,Plain stage,André Darrigade,FRA,1956,André_Darrigade,Flat stage,1929-04-24,Narrosse,729.1459665108086,918.9776348899487
+4b,1956-07-08,125.0,Rouen,Caen,Plain stage,Roger Hassenforder,FRA,1956,Roger_Hassenforder,Flat stage,1930-07-23,Sausheim,497.86324680544675,592.1654261280676
+5,1956-07-09,189.0,Caen,Saint-Malo,Plain stage,Joseph Morvan,FRA,1956,Joseph_Morvan,Flat stage,1924-12-03,Moustoir-Ac,234.71162821998928,106.85249821700414
+9,1956-07-13,219.0,La Rochelle,Bordeaux,Plain stage,Roger Hassenforder,FRA,1956,Roger_Hassenforder,Flat stage,1930-07-23,Sausheim,673.0324737606071,694.1003250211118
+14,1956-07-19,231.0,Toulouse,Montpellier,Plain stage,Roger Hassenforder,FRA,1956,Roger_Hassenforder,Flat stage,1930-07-23,Sausheim,654.8887633407866,538.0185169659777
+15,1956-07-20,204.0,Montpellier,Aix-en-Provence,Plain stage,Joseph Thomin,FRA,1956,Joseph_Thomin,Flat stage,1931-06-30,Ploudaniel,836.3443406881156,937.0840188512699
+16,1956-07-22,203.0,Aix-en-Provence,Gap,Stage with mountain(s),Jean Forestier,FRA,1956,Jean_Forestier,Mountain stage,1930-10-07,Lyon,252.3493165348319,165.36063845425576
+21,1956-07-27,237.0,Lyon,Montluçon,Stage with mountain(s),Roger Hassenforder,FRA,1956,Roger_Hassenforder,Mountain stage,1930-07-23,Sausheim,297.57763112991466,396.09319751334783
+2,1955-07-08,204.0,Dieppe,Roubaix,Plain stage,Antonin Rolland,FRA,1955,Antonin_Rolland,Flat stage,1924-09-03,Sainte-Euphémie,519.628989816674,538.2985744021428
+3,1955-07-09,210.0,Roubaix,Namur,Plain stage,Louison Bobet,FRA,1955,Louison_Bobet,Flat stage,1925-03-12,Saint-Méen-le-Grand,478.1885865410012,571.7802243002659
+5,1955-07-11,229.0,Metz,Colmar,Plain stage,Roger Hassenforder,FRA,1955,Roger_Hassenforder,Flat stage,1930-07-23,Sausheim,172.4815444747263,32.235160920553454
+6,1955-07-12,195.0,Colmar,Zürich,Plain stage,André Darrigade,FRA,1955,André_Darrigade,Flat stage,1929-04-24,Narrosse,811.0289982430398,849.7817930960655
+9,1955-07-15,275.0,Briançon,Monaco,Stage with mountain(s),Raphaël Géminiani,FRA,1955,Raphaël_Géminiani,Mountain stage,1925-06-12,Clermont-Ferrand,295.7410472238198,412.2872923618991
+10,1955-07-16,240.0,Monaco,Marseille,Plain stage,Lucien Lazaridès,FRA,1955,Lucien_Lazaridès,Flat stage,1922-12-30,Le Pirée,1508.0112359782938,1652.5596346749442
+11,1955-07-18,198.0,Marseille,Avignon,Stage with mountain(s),Louison Bobet,FRA,1955,Louison_Bobet,Mountain stage,1925-03-12,Saint-Méen-le-Grand,800.5578244435845,717.2329946934367
+14,1955-07-21,156.0,Albi,Narbonne,Stage with mountain(s),Louis Caput,FRA,1955,Louis_Caput,Mountain stage,1921-01-23,Saint-Maur-des-Fossés,542.5784960230576,625.9063787201499
+20,1955-07-28,243.0,Bordeaux,Poitiers,Plain stage,Jean Forestier,FRA,1955,Jean_Forestier,Flat stage,1930-10-07,Lyon,436.44996123295715,358.6767121421699
+2,1954-07-09,255.0,Beveren,Lille,Plain stage,Louison Bobet,FRA,1954,Louison_Bobet,Flat stage,1925-03-12,Saint-Méen-le-Grand,573.1787939270691,468.286652700288
+3,1954-07-10,219.0,Lille,Rouen,Plain stage,Marcel Dussault,FRA,1954,Marcel_Dussault,Flat stage,1926-05-14,La Châtre,457.8164536354911,324.8166942458714
+6,1954-07-13,179.0,Saint-Brieuc,Brest,Plain stage,Dominique Forlini,FRA,1954,Dominique_Forlini,Flat stage,1924-09-14,12e arrondissement de Paris,380.1104622312173,508.44357713969083
+7,1954-07-14,211.0,Brest,Vannes,Plain stage,Jacques Vivier,FRA,1954,Jacques_Vivier,Flat stage,1930-10-09,Sainte-Croix-de-Mareuil,495.6914108294028,345.29022524050765
+10,1954-07-18,202.0,Bordeaux,Bayonne,Plain stage,Gilbert Bauvin,FRA,1954,Gilbert_Bauvin,Flat stage,1927-08-04,Lunéville,682.294197261855,836.6884550430818
+12,1954-07-20,161.0,Pau,Luchon,Stage with mountain(s),Gilbert Bauvin,FRA,1954,Gilbert_Bauvin,Mountain stage,1927-08-04,Lunéville,792.7604005330362,791.234915537896
+15,1954-07-23,197.0,Millau,Le Puy,Stage with mountain(s),Dominique Forlini,FRA,1954,Dominique_Forlini,Mountain stage,1924-09-14,12e arrondissement de Paris,529.4050181656605,496.5291091966359
+16,1954-07-24,194.0,Le Puy,Lyon,Stage with mountain(s),Jean Forestier,FRA,1954,Jean_Forestier,Mountain stage,1930-10-07,Lyon,393.05814650964714,0.0
+17,1954-07-26,182.0,Lyon,Grenoble,Stage with mountain(s),Lucien Lazaridès,FRA,1954,Lucien_Lazaridès,Mountain stage,1922-12-30,Le Pirée,1781.013876203582,1691.5747026499648
+18,1954-07-27,216.0,Grenoble,Briançon,Stage with mountain(s),Louison Bobet,FRA,1954,Louison_Bobet,Mountain stage,1925-03-12,Saint-Méen-le-Grand,691.6521195944038,769.4138006654613
+19,1954-07-28,221.0,Briançon,Aix-les-Bains,Stage with mountain(s),Jean Dotto,FRA,1954,Jean_Dotto,Mountain stage,1928-03-27,Saint-Nazaire,733.6470432733838,648.2178832912506
+20,1954-07-29,243.0,Aix les Bains,Besançon,Stage with mountain(s),Lucien Teisseire,FRA,1954,Lucien_Teisseire,Mountain stage,1919-12-11,Saint-Laurent-du-Var,246.17295541838206,407.0052986549332
+21a,1954-07-30,134.0,Besançon,Épinal,Plain stage,François Mahé,FRA,1954,François_Mahé,Flat stage,1930-09-02,Arradon,668.474560153728,695.5723986014766
+21b,1954-07-30,72.0,Epinal,Nancy,Individual time trial,Louison Bobet,FRA,1954,Louison_Bobet,Time trial,1925-03-12,Saint-Méen-le-Grand,642.2653887964095,621.8158014097443
+23,1954-08-01,180.0,Troyes,Paris,Plain stage,Robert Varnajo,FRA,1954,Robert_Varnajo,Flat stage,1929-05-01,Curzon,455.45573796534705,382.23768879540455
+3,1953-07-05,221.0,Liège,Lille,Plain stage,Stanislas Bober,FRA,1953,Stanislas_Bober,Flat stage,1930-03-12,Nanterre,311.0917609278567,203.562670653848
+5,1953-07-07,200.0,Dieppe,Caen,Plain stage,Jean Malléjac,FRA,1953,Jean_Malléjac,Flat stage,1929-07-19,Dirinon,425.3074887378618,299.87285075914644
+11,1953-07-14,115.0,Cauterets,Luchon,Stage with mountain(s),Jean Robic,FRA,1953,Jean_Robic,Mountain stage,1921-06-10,Condé-lès-Vouziers,814.4581761696223,801.288407271666
+12,1953-07-15,228.0,Luchon,Albi,Plain stage,André Darrigade,FRA,1953,André_Darrigade,Flat stage,1929-04-24,Narrosse,164.13606435924336,255.2059960206408
+13,1953-07-16,189.0,Albi,Béziers,Stage with mountain(s),Nello Lauredi,FRA,1953,Nello_Lauredi,Mountain stage,1924-10-05,Mulazzo,620.9289854138682,547.641979019207
+14,1953-07-17,214.0,Béziers,Nîmes,Stage with mountain(s),Bernard Quennehen,FRA,1953,Bernard_Quennehen,Mountain stage,1930-05-31,Le Translay,745.8222181897113,711.4288520097585
+15,1953-07-18,173.0,Nîmes,Marseille,Plain stage,Maurice Quentin,FRA,1953,Maurice_Quentin,Flat stage,1920-06-02,Maizières-lès-Metz,612.9617835453822,660.1927923365865
+18,1953-07-22,165.0,Gap,Briançon,Stage with mountain(s),Louison Bobet,FRA,1953,Louison_Bobet,Mountain stage,1925-03-12,Saint-Méen-le-Grand,752.9072227931122,769.4138006654613
+19,1953-07-23,227.0,Briançon,Lyon,Stage with mountain(s),Georges Meunier,FRA,1953,Georges_Meunier,Mountain stage,1925-05-09,Vierzon,438.04019515763275,267.3266064959665
+20,1953-07-24,70.0,Lyon,St. Etienne,Individual time trial,Louison Bobet,FRA,1953,Louison_Bobet,Time trial,1925-03-12,Saint-Méen-le-Grand,598.5771709580398,587.4623692279296
+3,1952-06-27,189.0,Le Mans,Rouen,Plain stage,Nello Lauredi,FRA,1952,Nello_Lauredi,Flat stage,1924-10-05,Mulazzo,852.8298636050771,878.8002548593979
+4,1952-06-28,232.0,Rouen,Roubaix,Plain stage,Pierre Molinéris,FRA,1952,Pierre_Molinéris,Flat stage,1920-05-21,Nice,793.8502388587675,836.4845657572102
+8,1952-07-02,252.0,Nancy,Mulhouse,Stage with mountain(s),Raphaël Géminiani,FRA,1952,Raphaël_Géminiani,Mountain stage,1925-06-12,Clermont-Ferrand,400.26063239765466,391.9352789969931
+13,1952-07-08,214.0,Monaco,Aix-en-Provence,Plain stage,Raoul Rémy,FRA,1952,Raoul_Rémy,Flat stage,1919-10-25,Marseille,173.29129405300804,26.709171019021873
+14,1952-07-09,178.0,Aix-en-Provence,Avignon,Stage with mountain(s),Jean Robic,FRA,1952,Jean_Robic,Mountain stage,1921-06-10,Condé-lès-Vouziers,656.3709367331435,607.3221849722297
+15,1952-07-10,275.0,Avignon,Perpignan,Plain stage,Georges Decaux,FRA,1952,Georges_Decaux,Flat stage,,,,
+17,1952-07-13,204.0,Toulouse,Bagnères-de-Bigorre,Stage with mountain(s),Raphaël Géminiani,FRA,1952,Raphaël_Géminiani,Mountain stage,1925-06-12,Clermont-Ferrand,274.1439963100634,380.9844325312447
+20,1952-07-16,228.0,Bordeaux,Limoges,Plain stage,Jacques Vivier,FRA,1952,Jacques_Vivier,Flat stage,1930-10-09,Sainte-Croix-de-Mareuil,105.03044436647329,77.3709459820081
+23,1952-07-19,354.0,Vichy,Paris,Plain stage,Antonin Rolland,FRA,1952,Antonin_Rolland,Flat stage,1924-09-03,Sainte-Euphémie,107.77457711812721,371.27267771684234
+3,1951-07-06,219.0,Ghent,Le Tréport,Plain stage,Georges Meunier,FRA,1951,Georges_Meunier,Flat stage,1925-05-09,Vierzon,442.94061324977326,319.5473293726993
+4,1951-07-07,188.0,Le Tréport,Paris,Plain stage,Roger Lévêque,FRA,1951,Roger_Lévêque,Flat stage,1920-12-05,Saint-Nazaire,407.5206992863547,381.05038822552007
+6,1951-07-09,182.0,Caen,Rennes,Plain stage,Édouard Muller,FRA,1951,Édouard_Muller,Flat stage,1919-06-08,Neuilly-sur-Seine,195.338712102876,304.25429538995974
+9,1951-07-13,236.0,Limoges,Clermont-Ferrand,Stage with mountain(s),Raphaël Géminiani,FRA,1951,Raphaël_Géminiani,Mountain stage,1925-06-12,Clermont-Ferrand,141.42017947360506,0.0
+17,1951-07-22,224.0,Montpellier,Avignon,Stage with mountain(s),Louison Bobet,FRA,1951,Louison_Bobet,Mountain stage,1925-03-12,Saint-Méen-le-Grand,692.8716172060202,717.2329946934367
+24,1951-07-29,322.0,Dijon,Paris,Plain stage,Adolphe Deledda,FRA,1951,Adolphe_Deledda,Flat stage,1919-09-28,Villa Minozzo,534.1526675619474,798.5811271761551
+7,1950-07-20,248.0,St. Brieuc,Angers,Plain stage,Nello Lauredi,FRA,1950,Nello_Lauredi,Flat stage,1924-10-05,Mulazzo,1076.9383387872556,882.1698188946269
+10,1950-07-23,202.0,Bordeaux,Pau,Plain stage,Marcel Dussault,FRA,1950,Marcel_Dussault,Flat stage,1926-05-14,La Châtre,278.2479839369649,409.79464251052406
+13,1950-07-27,215.0,Perpignan,Nîmes,Plain stage,Marcel Molinès,FRA,1950,Marcel_Molinès,Flat stage,1928-12-22,Alger,657.7996227122685,791.8937008084552
+14,1950-07-28,222.0,Nîmes,Toulon,Plain stage,Custodio Dos Reis,FRA,1950,Custodio_Dos_Reis,Flat stage,1922-11-30,Rabat,1456.5368922871276,1499.6709046358033
+17,1950-08-01,229.0,Nice,Gap,Stage with mountain(s),Raphaël Géminiani,FRA,1950,Raphaël_Géminiani,Mountain stage,1925-06-12,Clermont-Ferrand,403.8856724973401,271.8122893541119
+18,1950-08-02,165.0,Gap,Briançon,Stage with mountain(s),Louison Bobet,FRA,1950,Louison_Bobet,Mountain stage,1925-03-12,Saint-Méen-le-Grand,752.9072227931122,769.4138006654613
+19,1950-08-03,291.0,Briançon,Saint-Étienne,Stage with mountain(s),Raphaël Géminiani,FRA,1950,Raphaël_Géminiani,Mountain stage,1925-06-12,Clermont-Ferrand,295.7410472238198,108.50833835259888
+21,1950-08-06,233.0,Lyon,Dijon,Plain stage,Gino Sciardis,FRA,1950,Gino_Sciardis,Flat stage,1917-01-28,Pocenia,642.642989644433,639.1389624223444
+22,1950-08-07,314.0,Dijon,Paris,Plain stage,Émile Baffert,FRA,1950,Émile_Baffert,Flat stage,1924-08-26,Grenoble,243.17318982649363,483.632989158338
+1,1949-06-30,182.0,Paris,Reims,Plain stage,Marcel Dussault,FRA,1949,Marcel_Dussault,Flat stage,1926-05-14,La Châtre,254.41656736399483,334.41478851643654
+4,1949-07-03,185.0,Boulogne-sur-Mer,Rouen,Plain stage,Lucien Teisseire,FRA,1949,Lucien_Teisseire,Flat stage,1919-12-11,Saint-Laurent-du-Var,890.5854215200051,793.2712719602571
+6,1949-07-05,305.0,Saint-Malo,Les Sables-d'Olonne,Plain stage,Adolphe Deledda,FRA,1949,Adolphe_Deledda,Flat stage,1919-09-28,Villa Minozzo,1068.8007129834757,987.0311078375363
+8,1949-07-08,262.0,La Rochelle,Bordeaux,Plain stage,Guy Lapébie,FRA,1949,Guy_Lapébie,Flat stage,1916-11-28,Saint-Geours-de-Maremne,274.7092525191546,138.50114826438465
+9,1949-07-09,228.0,Bordeaux,San Sebastián,Plain stage,Louis Caput,FRA,1949,Louis_Caput,Flat stage,1921-01-23,Saint-Maur-des-Fossés,498.6081438522068,700.2181020181382
+11,1949-07-12,193.0,Pau,Luchon,Stage with mountain(s),Jean Robic,FRA,1949,Jean_Robic,Mountain stage,1921-06-10,Condé-lès-Vouziers,783.4353701539032,801.288407271666
+13,1949-07-14,289.0,Toulouse,Nîmes,Plain stage,Emile Idée,FRA,1949,Emile_Idée,Flat stage,1920-07-19,Nouvion-le-Comte,694.8109168624381,655.1758051559821
+19,1949-07-22,283.0,Lausanne,Colmar,Stage with mountain(s),Raphaël Géminiani,FRA,1949,Raphaël_Géminiani,Mountain stage,1925-06-12,Clermont-Ferrand,286.4882098106709,413.9522283218374
+3,1948-07-02,251.0,Dinard,Nantes,Plain stage,Guy Lapébie,FRA,1948,Guy_Lapébie,Flat stage,1916-11-28,Saint-Geours-de-Maremne,553.1906988527186,393.1851610744675
+4,1948-07-03,166.0,Nantes,La Rochelle,Plain stage,Jacques Pras,FRA,1948,Jacques_Pras,Flat stage,1924-06-12,Bréville,186.58285586819872,79.83972976599516
+5,1948-07-04,262.0,La Rochelle,Bordeaux,Plain stage,Raoul Remy,FRA,1948,Raoul_Remy,Flat stage,1919-10-25,Marseille,606.4676616525785,506.49810222607306
+6,1948-07-05,244.0,Bordeaux,Biarritz,Plain stage,Louison Bobet,FRA,1948,Louison_Bobet,Flat stage,1925-03-12,Saint-Méen-le-Grand,392.16871306901686,525.3802748408784
+12,1948-07-13,170.0,Sanremo,Cannes,Stage with mountain(s),Louison Bobet,FRA,1948,Louison_Bobet,Mountain stage,1925-03-12,Saint-Méen-le-Grand,910.9243966253066,880.2110938019283
+20,1948-07-24,228.0,Liège,Roubaix,Plain stage,Bernard Gauthier,FRA,1948,Bernard_Gauthier,Flat stage,,,,
+2,1947-06-26,182.0,Lille,Brussels,Plain stage,René Vietto,FRA,1947,René_Vietto,Flat stage,1914-02-17,Le Cannet,815.2279209059385,869.7949340030591
+4,1947-06-28,223.0,Luxembourg City,Strasbourg,Plain stage,Jean Robic,FRA,1947,Jean_Robic,Flat stage,1921-06-10,Condé-lès-Vouziers,105.85959277267246,241.4051690550584
+6,1947-07-01,249.0,Besançon,Lyon,Plain stage,Lucien Teisseire,FRA,1947,Lucien_Teisseire,Flat stage,1919-12-11,Saint-Laurent-du-Var,407.0052986549332,297.98290631476743
+7,1947-07-02,172.0,Lyon,Grenoble,Stage with mountain(s),Jean Robic,FRA,1947,Jean_Robic,Mountain stage,1921-06-10,Condé-lès-Vouziers,406.4053335670189,476.1332254805454
+9,1947-07-05,217.0,Briançon,Digne,Stage with mountain(s),René Vietto,FRA,1947,René_Vietto,Mountain stage,1914-02-17,Le Cannet,553.1025490611772,508.06312604093665
+11,1947-07-08,230.0,Nice,Marseille,Plain stage,Édouard Fachleitner,FRA,1947,Édouard_Fachleitner,Flat stage,1921-02-24,Sveta Nedelja,712.4821277220842,871.6646690874385
+12,1947-07-09,165.0,Marseille,Montpellier,Plain stage,Henri Massal,FRA,1947,Henri_Massal,Flat stage,1921-05-01,Montblanc,162.75309820584675,47.64455644660033
+13,1947-07-10,172.0,Montpellier,Carcassonne,Plain stage,Lucien Teisseire,FRA,1947,Lucien_Teisseire,Flat stage,1919-12-11,Saint-Laurent-du-Var,267.46091357192716,395.15442404823904
+14,1947-07-11,253.0,Carcassonne,Luchon,Stage with mountain(s),Albert Bourlon,FRA,1947,Albert_Bourlon,Mountain stage,1916-11-23,Sancergues,440.4053142615009,518.5147306110889
+15,1947-07-13,195.0,Luchon,Pau,Stage with mountain(s),Jean Robic,FRA,1947,Jean_Robic,Mountain stage,1921-06-10,Condé-lès-Vouziers,801.288407271666,783.4353701539032
+17,1947-07-15,272.0,Bordeaux,Les Sables-d'Olonne,Plain stage,Éloi Tassin,FRA,1947,Éloi_Tassin,Flat stage,1912-06-06,Vay,313.7535607075632,117.4042592538593
+20,1947-07-19,235.0,Saint-Brieuc,Caen,Plain stage,Maurice Diot,FRA,1947,Maurice_Diot,Flat stage,1922-06-13,13e arrondissement de Paris,378.87826245769133,203.5236056559693
+1,1939-07-10,215.0,Paris,Caen,Plain stage,Amédée Fournier,FRA,1939,Amédée_Fournier,Flat stage,1912-02-03,Armentières,207.29215184972108,286.89971240880976
+2b,1939-07-11,119.0,Vire,Rennes,Plain stage,Éloi Tassin,FRA,1939,Éloi_Tassin,Flat stage,1912-06-06,Vay,156.43271048683312,61.94136496292636
+3,1939-07-12,244.0,Rennes,Brest,Plain stage,Pierre Cloarec,FRA,1939,Pierre_Cloarec,Flat stage,1909-03-14,Pleyben,170.7199389758609,42.49492635810687
+4,1939-07-13,174.0,Brest,Lorient,Plain stage,Raymond Louviot,FRA,1939,Raymond_Louviot,Flat stage,1908-12-17,Granges,716.7776135864826,622.741148442715
+5,1939-07-14,207.0,Lorient,Nantes,Plain stage,Amédée Fournier,FRA,1939,Amédée_Fournier,Flat stage,1912-02-03,Armentières,560.0894306572083,504.11657661426324
+6b,1939-07-15,107.0,La Rochelle,Royan,Plain stage,Edmond Pagès,FRA,1939,Edmond_Pagès,Flat stage,1911-05-02,Puteaux,396.06523414653185,438.57388581903655
+7,1939-07-17,198.0,Royan,Bordeaux,Plain stage,Raymond Passat,FRA,1939,Raymond_Passat,Flat stage,1913-12-28,Gannat,332.52703401509336,326.93138391895667
+10a,1939-07-21,149.0,Toulouse,Narbonne,Plain stage,Pierre Jaminet,FRA,1939,Pierre_Jaminet,Flat stage,1912-02-02,16e arrondissement de Paris,588.7866190999995,634.5701527298597
+10b,1939-07-21,27.0,Narbonne,Béziers,Individual time trial,Maurice Archambaud,FRA,1939,Maurice_Archambaud,Time trial,1908-08-30,14e arrondissement de Paris,630.1067346094651,614.0987911199999
+10c,1939-07-21,70.0,Béziers,Montpellier,Plain stage,Maurice Archambaud,FRA,1939,Maurice_Archambaud,Flat stage,1908-08-30,14e arrondissement de Paris,614.0987911199999,592.5859045766229
+11,1939-07-22,212.0,Montpellier,Marseille,Plain stage,Fabien Galateau,FRA,1939,Fabien_Galateau,Flat stage,1913-07-23,Nanteuil-la-Forêt,613.6183209205741,658.139499125097
+12b,1939-07-23,122.0,Saint-Raphaël,Monaco,Plain stage,Maurice Archambaud,FRA,1939,Maurice_Archambaud,Flat stage,1908-08-30,14e arrondissement de Paris,403.64950929353785,689.5669749201112
+13,1939-07-24,101.0,Monaco,Monaco,Stage with mountain(s),Pierre Gallien,FRA,1939,Pierre_Gallien,Mountain stage,1911-10-19,Le Perreux-sur-Marne,682.4341740512955,682.4341740512955
+14,1939-07-25,175.0,Monaco,Digne,Plain stage,Pierre Cloarec,FRA,1939,Pierre_Cloarec,Flat stage,1909-03-14,Pleyben,1013.120209621879,911.2576245959594
+16a,1939-07-27,126.0,Briançon,Briançon,Stage with mountain(s),Pierre Jaminet,FRA,1939,Pierre_Jaminet,Mountain stage,1912-02-02,16e arrondissement de Paris,552.8790104892902,552.8790104892902
+17b,1939-07-29,59.0,Dôle,Dijon,Individual time trial,Maurice Archambaud,FRA,1939,Maurice_Archambaud,Time trial,1908-08-30,14e arrondissement de Paris,305.5002251462658,262.94978966339517
+18a,1939-07-30,151.0,Dijon,Troyes,Plain stage,René Le Grevès,FRA,1939,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,262.94978966339517,142.08531473899117
+9,1938-07-16,260.0,Luchon,Perpignan,Stage with mountain(s),Jean Fréchaut,FRA,1938,Jean_Fréchaut,Mountain stage,1914-09-19,Béguey,218.68026426374905,337.7288064961001
+10c,1938-07-17,73.0,Béziers,Montpellier,Plain stage,Antonin Magne,FRA,1938,Antonin_Magne,Flat stage,1904-02-15,Ytrac,187.08508847999414,188.32747487777138
+12,1938-07-19,199.0,Marseille,Cannes,Plain stage,Jean Fréchaut,FRA,1938,Jean_Fréchaut,Flat stage,1914-09-19,Béguey,480.62944489434267,599.637253167024
+13,1938-07-21,284.0,Cannes,Digne,Stage with mountain(s),Dante Gianello,FRA,1938,Dante_Gianello,Mountain stage,1912-03-26,Chiesa in Valmalenco,375.5376060801079,372.7666875381363
+17b,1938-07-26,143.0,Belfort,Strasbourg,Plain stage,Jean Fréchaut,FRA,1938,Jean_Fréchaut,Flat stage,1914-09-19,Béguey,646.8989520061749,757.191295119012
+19,1938-07-28,196.0,Metz,Reims,Plain stage,Fabien Galateau,FRA,1938,Fabien_Galateau,Flat stage,1913-07-23,Nanteuil-la-Forêt,164.58681665596234,16.20619276913148
+2,1937-07-01,192.0,Lille,Charleville,Plain stage,Maurice Archambaud,FRA,1937,Maurice_Archambaud,Flat stage,1908-08-30,14e arrondissement de Paris,207.49900556936083,98.38050989875639
+5a,1937-07-04,175.0,Belfort,Lons-le-Saunier,Plain stage,Henri Puppo,FRA,1937,Henri_Puppo,Flat stage,1913-02-05,Le Tignet,444.3545926575116,351.89919387973794
+9,1937-07-09,220.0,Briançon,Digne,Stage with mountain(s),Roger Lapébie,FRA,1937,Roger_Lapébie,Mountain stage,1911-01-16,Bayonne,667.2229890156764,623.8782960047106
+12a,1937-07-14,112.0,Marseille,Nîmes,Plain stage,Alphonse Antoine,FRA,1937,Alphonse_Antoine,Flat stage,,,,
+16,1937-07-21,235.0,Pau,Bordeaux,Plain stage,Paul Chocque,FRA,1937,Paul_Chocque,Flat stage,1910-07-14,Meudon,645.4499497281273,491.00157657012755
+17c,1937-07-22,67.0,Saintes,La Rochelle,Plain stage,Roger Lapébie,FRA,1937,Roger_Lapébie,Flat stage,1911-01-16,Bayonne,259.1569307974092,297.3421042605621
+18a,1937-07-23,82.0,La Rochelle,La Roche-sur-Yon,Team time trial,Roger Lapébie,FRA,1937,Roger_Lapébie,Flat stage,1911-01-16,Bayonne,297.3421042605621,353.1138664354794
+18b,1937-07-23,172.0,La Roche-sur-Yon,Rennes,Plain stage,Paul Chocque,FRA,1937,Paul_Chocque,Flat stage,1910-07-14,Meudon,363.65254468681684,300.07467260164236
+19a,1937-07-24,114.0,Rennes,Vire,Plain stage,Raymond Passat,FRA,1937,Raymond_Passat,Flat stage,1913-12-28,Gannat,432.5490720021349,434.07180643901916
+4,1936-07-10,220.0,Metz,Belfort,Stage with mountain(s),Maurice Archambaud,FRA,1936,Maurice_Archambaud,Mountain stage,1908-08-30,14e arrondissement de Paris,283.5661529911667,362.13763247407985
+5,1936-07-11,298.0,Belfort,Évian-les-Bains,Plain stage,René Le Grèves,FRA,1936,René_Le_Grèves,Flat stage,,,,
+8,1936-07-15,194.0,Grenoble,Briançon,Stage with mountain(s),Jean-Marie Goasmat,FRA,1936,Jean-Marie_Goasmat,Mountain stage,1913-03-28,Camors,732.130340572881,810.4431202875539
+9,1936-07-16,220.0,Briançon,Digne,Stage with mountain(s),Léon Level,FRA,1936,Léon_Level,Mountain stage,1910-07-12,Hédouville,582.394681841356,642.8779763022441
+10,1936-07-18,156.0,Digne,Nice,Plain stage,Paul Maye,FRA,1936,Paul_Maye,Flat stage,1913-08-19,Bayonne,623.8782960047106,706.0590477926877
+12,1936-07-21,195.0,Cannes,Marseille,Plain stage,René Le Grevès,FRA,1936,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,689.2715486327356,658.7943460940887
+13a,1936-07-22,112.0,Marseille,Nîmes,Plain stage,René Le Grevès,FRA,1936,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,658.7943460940887,576.8866969797014
+14a,1936-07-23,103.0,Montpellier,Narbonne,Plain stage,René Le Grevès,FRA,1936,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,592.5859045766229,630.1067346094651
+15,1936-07-25,325.0,Perpignan,Luchon,Stage with mountain(s),Sauveur Ducazeaux,FRA,1936,Sauveur_Ducazeaux,Mountain stage,1910-12-08,Biarritz,372.9742952361934,191.10930942920916
+17,1936-07-29,229.0,Pau,Bordeaux,Plain stage,René Le Grevès,FRA,1936,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,649.7481933596182,495.9956831250724
+19c,1936-07-31,67.0,Cholet,Angers,Plain stage,Paul Maye,FRA,1936,Paul_Maye,Flat stage,1913-08-19,Bayonne,399.3157109154696,448.2578189363503
+20a,1936-08-01,204.0,Angers,Vire,Plain stage,René Le Grevès,FRA,1936,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,262.0903031248291,235.92287699160053
+20b,1936-08-01,55.0,Vire,Caen,Individual time trial,Antonin Magne,FRA,1936,Antonin_Magne,Time trial,1904-02-15,Ytrac,503.1666528900253,517.8847397712267
+2,1935-07-05,192.0,Lille,Charleville,Plain stage,Charles Pélissier,FRA,1935,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,204.54665071503064,102.43615498129934
+5a,1935-07-08,262.0,Belfort,"Geneva, Switzerland",Plain stage,Maurice Archambaud,FRA,1935,Maurice_Archambaud,Flat stage,1908-08-30,14e arrondissement de Paris,362.13763247407985,
+6,1935-07-10,207.0,Evian,Aix-les-Bains,Stage with mountain(s),René Vietto,FRA,1935,René_Vietto,Mountain stage,1914-02-17,Le Cannet,620.1177514347878,526.0787028850153
+9,1935-07-13,227.0,Gap,Digne,Stage with mountain(s),René Vietto,FRA,1935,René_Vietto,Mountain stage,1914-02-17,Le Cannet,502.1491779976606,508.06312604093665
+12,1935-07-17,195.0,Cannes,Marseille,Plain stage,Charles Pélissier,FRA,1935,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,694.8744006888402,664.0935842079238
+13b,1935-07-18,56.0,Nîmes,Montpellier,Individual time trial,Georges Speicher,FRA,1935,Georges_Speicher,Time trial,1907-06-08,20e arrondissement de Paris,578.7427215770126,594.9348789246293
+14a,1935-07-19,103.0,Montpellier,Narbonne,Plain stage,René Le Grevès,FRA,1935,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,592.5859045766229,630.1067346094651
+14b,1935-07-19,63.0,Narbonne,Perpignan,Individual time trial,Maurice Archambaud,FRA,1935,Maurice_Archambaud,Time trial,1908-08-30,14e arrondissement de Paris,630.1067346094651,683.2589345426882
+17,1935-07-24,224.0,Pau,Bordeaux,Plain stage,Julien Moineau,FRA,1935,Julien_Moineau,Flat stage,1903-11-27,Clichy,656.5117626306645,502.1433642054054
+18a,1935-07-25,158.0,Bordeaux,Rochefort,Plain stage,René Le Grevès,FRA,1935,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,495.9956831250724,406.2410658548769
+18b,1935-07-25,33.0,Rochefort,La Rochelle,Individual time trial,André Leducq,FRA,1935,André_Leducq,Time trial,1904-02-27,Saint-Ouen-sur-Seine,413.40959049651565,403.1016880212112
+19a,1935-07-26,81.0,La Rochelle,La Roche sur Yon,Plain stage,René Le Grevès,FRA,1935,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,396.27073353567806,370.1120884781044
+20a,1935-07-27,220.0,Nantes,Vire,Plain stage,René Le Grevès,FRA,1935,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,340.5586932815355,235.92287699160053
+1,1934-07-03,262.0,Paris,Lille,Plain stage,Georges Speicher,FRA,1934,Georges_Speicher,Flat stage,1907-06-08,20e arrondissement de Paris,6.472145857949404,202.54017268436854
+2,1934-07-04,192.0,Lille,Charleville,Plain stage,René Le Grevès,FRA,1934,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,207.49900556936083,98.38050989875639
+3,1934-07-05,161.0,Charleville,Metz,Plain stage,Roger Lapébie,FRA,1934,Roger_Lapébie,Flat stage,1911-01-16,Bayonne,711.9857478338264,858.5403653045523
+4,1934-07-06,220.0,Metz,Belfort,Stage with mountain(s),Roger Lapébie,FRA,1934,Roger_Lapébie,Mountain stage,1911-01-16,Bayonne,858.5403653045523,796.7127105913393
+6,1934-07-09,207.0,Evian,Aix-les-Bains,Stage with mountain(s),Georges Speicher,FRA,1934,Georges_Speicher,Mountain stage,1907-06-08,20e arrondissement de Paris,504.2742149023339,441.6848327770451
+7,1934-07-10,229.0,Aix-les-Bains,Grenoble,Stage with mountain(s),René Vietto,FRA,1934,René_Vietto,Mountain stage,1914-02-17,Le Cannet,526.0787028850153,492.807898463365
+9,1934-07-12,227.0,Gap,Digne,Stage with mountain(s),René Vietto,FRA,1934,René_Vietto,Mountain stage,1914-02-17,Le Cannet,502.1491779976606,508.06312604093665
+10,1934-07-13,156.0,Digne,Nice,Plain stage,René Le Grevès,FRA,1934,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,606.3444285451278,685.6258575964001
+11,1934-07-15,126.0,Nice,Cannes,Stage with mountain(s),René Vietto,FRA,1934,René_Vietto,Mountain stage,1914-02-17,Le Cannet,590.3166241057268,570.4487001107968
+12,1934-07-16,195.0,Cannes,Marseille,Plain stage,Roger Lapébie,FRA,1934,Roger_Lapébie,Flat stage,1911-01-16,Bayonne,686.00320613792,554.8414625337341
+13,1934-07-17,172.0,Marseille,Montpellier,Plain stage,Georges Speicher,FRA,1934,Georges_Speicher,Flat stage,1907-06-08,20e arrondissement de Paris,659.9885713454079,594.9348789246293
+14,1934-07-18,177.0,Montpellier,Perpignan,Plain stage,Roger Lapébie,FRA,1934,Roger_Lapébie,Flat stage,1911-01-16,Bayonne,432.58816617273743,366.5559610542146
+15,1934-07-20,158.0,Perpignan,Ax-les-Thermes,Plain stage,Roger Lapébie,FRA,1934,Roger_Lapébie,Flat stage,1911-01-16,Bayonne,366.5559610542146,283.03697094318727
+17,1934-07-22,91.0,Luchon,Tarbes,Stage with mountain(s),Antonin Magne,FRA,1934,Antonin_Magne,Mountain stage,1904-02-15,Ytrac,275.2886412182972,261.3010096134193
+18,1934-07-23,172.0,Tarbes,Pau,Stage with mountain(s),René Vietto,FRA,1934,René_Vietto,Mountain stage,1914-02-17,Le Cannet,43.90912155822228,43.940656890401364
+20,1934-07-26,183.0,Bordeaux,La Rochelle,Plain stage,Georges Speicher,FRA,1934,Georges_Speicher,Flat stage,1907-06-08,20e arrondissement de Paris,501.983028293289,402.96831054989684
+21a,1934-07-27,81.0,La Rochelle,La Roche sur Yon,Plain stage,René Le Grevès,FRA,1934,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,396.27073353567806,370.1120884781044
+21b,1934-07-27,90.0,La Roche sur Yon,Nantes,Individual time trial,Antonin Magne,FRA,1934,Antonin_Magne,Time trial,1904-02-15,Ytrac,353.62246202774514,396.96557068326575
+22,1934-07-28,275.0,Nantes,Caen,Plain stage,Raymond Louviot,FRA,1934,Raymond_Louviot,Flat stage,1908-12-17,Granges,480.9300159149769,466.91291838662704
+1,1933-06-27,262.0,Paris,Lille,Plain stage,Maurice Archambaud,FRA,1933,Maurice_Archambaud,Flat stage,1908-08-30,14e arrondissement de Paris,2.91709215358527,207.49900556936083
+8,1933-07-05,102.0,Grenoble,Gap,Stage with mountain(s),Georges Speicher,FRA,1933,Georges_Speicher,Mountain stage,1907-06-08,20e arrondissement de Paris,480.74387707657723,554.7455370305594
+9,1933-07-06,227.0,Gap,Digne,Stage with mountain(s),Georges Speicher,FRA,1933,Georges_Speicher,Mountain stage,1907-06-08,20e arrondissement de Paris,554.7455370305594,606.4495194550145
+10,1933-07-07,156.0,Digne,Nice,Plain stage,Fernand Cornez,FRA,1933,Fernand_Cornez,Flat stage,1907-11-19,15e arrondissement de Paris,607.6260809915183,686.8988644366079
+11,1933-07-09,128.0,Nice,Cannes,Stage with mountain(s),Maurice Archambaud,FRA,1933,Maurice_Archambaud,Mountain stage,1908-08-30,14e arrondissement de Paris,685.6258575964001,689.2715486327356
+12,1933-07-10,208.0,Cannes,Marseille,Plain stage,Georges Speicher,FRA,1933,Georges_Speicher,Flat stage,1907-06-08,20e arrondissement de Paris,689.0978858202326,659.9885713454079
+13,1933-07-11,168.0,Marseille,Montpellier,Plain stage,André Leducq,FRA,1933,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,666.7131272431701,601.0283122839256
+14,1933-07-12,166.0,Montpellier,Perpignan,Plain stage,André Leducq,FRA,1933,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,601.0283122839256,691.9515662502976
+22,1933-07-22,169.0,Rennes,Caen,Plain stage,René Le Grevès,FRA,1933,René_Le_Grevès,Flat stage,1910-06-06,14e arrondissement de Paris,306.9185130071181,200.6047177982913
+3,1932-07-09,387.0,Nantes,Bordeaux,Plain stage,André Leducq,FRA,1932,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,345.5180445941617,504.008239036093
+11,1932-07-21,233.0,Nice,Gap,Stage with mountain(s),André Leducq,FRA,1932,André_Leducq,Mountain stage,1904-02-27,Saint-Ouen-sur-Seine,692.4547679079145,561.9223579106898
+12,1932-07-22,102.0,Gap,Grenoble,Stage with mountain(s),Roger Lapébie,FRA,1932,Roger_Lapébie,Mountain stage,1911-01-16,Bayonne,617.1219715167806,604.8191341543203
+13,1932-07-23,230.0,Grenoble,Aix-les-Bains,Stage with mountain(s),André Leducq,FRA,1932,André_Leducq,Mountain stage,1904-02-27,Saint-Ouen-sur-Seine,487.9585798259257,449.0256457239465
+15,1932-07-25,291.0,Evian,Belfort,Stage with mountain(s),André Leducq,FRA,1932,André_Leducq,Mountain stage,1904-02-27,Saint-Ouen-sur-Seine,511.6888415275927,364.6971270641111
+20,1932-07-30,212.0,Malo-les-Bains,Amiens,Plain stage,André Leducq,FRA,1932,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,237.51223045210392,109.3006077563204
+21,1932-07-31,159.0,Amiens,Paris,Plain stage,André Leducq,FRA,1932,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,109.3006077563204,5.968032214790153
+4,1931-07-03,211.0,Brest,Vannes,Plain stage,André Godinat,FRA,1931,André_Godinat,Flat stage,1903-09-03,Reuil,613.9684171608737,510.90116383736955
+5,1931-07-04,202.0,Vannes,Les Sables d'Olonne,Plain stage,Charles Pélissier,FRA,1931,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,397.1425904616726,403.15934045265374
+8,1931-07-07,106.0,Bayonne,Pau,Plain stage,Charles Pélissier,FRA,1931,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,663.8425343211132,652.3311157631787
+9,1931-07-08,231.0,Pau,Luchon,Stage with mountain(s),Antonin Magne,FRA,1931,Antonin_Magne,Mountain stage,1904-02-15,Ytrac,282.92446673963576,275.2886412182972
+13,1931-07-14,181.0,Marseille,Cannes,Plain stage,Charles Pélissier,FRA,1931,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,664.0935842079238,694.8744006888402
+16,1931-07-18,102.0,Gap,Grenoble,Stage with mountain(s),Charles Pélissier,FRA,1931,Charles_Pélissier,Mountain stage,1903-02-20,16e arrondissement de Paris,560.4006612188901,486.57504619790603
+20,1931-07-22,209.0,Belfort,Colmar,Stage with mountain(s),André Leducq,FRA,1931,André_Leducq,Mountain stage,1904-02-27,Saint-Ouen-sur-Seine,364.6971270641111,382.6229242491288
+24,1931-07-26,313.0,Malo-les-Bains,Paris,Plain stage,Charles Pélissier,FRA,1931,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,242.2572569291751,3.6356202466807668
+1,1930-07-02,206.0,Paris,Caen,Plain stage,Charles Pélissier,FRA,1930,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,3.6356202466807668,195.9303474112222
+3,1930-07-04,206.0,Dinan,Brest,Plain stage,Charles Pélissier,FRA,1930,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,321.6253232277976,500.93441623894927
+5,1930-07-06,202.0,Vannes,Les Sables d'Olonne,Plain stage,André Leducq,FRA,1930,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,402.8145309440654,409.53521949784954
+7,1930-07-08,222.0,Bordeaux,Hendaye,Plain stage,Jules Merviel,FRA,1930,Jules_Merviel,Flat stage,1906-09-29,Saint-Beauzély,291.2316396216021,390.42972965919773
+10,1930-07-12,322.0,Luchon,Perpignan,Stage with mountain(s),Charles Pélissier,FRA,1930,Charles_Pélissier,Mountain stage,1903-02-20,16e arrondissement de Paris,688.1567042059573,687.6528334865467
+11,1930-07-14,164.0,Perpignan,Montpellier,Plain stage,Charles Pélissier,FRA,1930,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,687.6528334865467,597.4549956163172
+12,1930-07-15,209.0,Montpellier,Marseille,Plain stage,Antonin Magne,FRA,1930,Antonin_Magne,Flat stage,1904-02-15,Ytrac,188.32747487777138,300.2218439404455
+14,1930-07-17,132.0,Cannes,Nice,Stage with mountain(s),Louis Peglion,FRA,1930,Louis_Peglion,Mountain stage,1906-03-08,Marseille,136.07441963700887,159.9887240628665
+16,1930-07-21,331.0,Grenoble,Evian,Stage with mountain(s),André Leducq,FRA,1930,André_Leducq,Mountain stage,1904-02-27,Saint-Ouen-sur-Seine,487.9585798259257,511.6888415275927
+18,1930-07-24,223.0,Belfort,Metz,Plain stage,Charles Pélissier,FRA,1930,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,367.2336456273433,286.91904774297103
+19,1930-07-25,159.0,Metz,Charleville,Plain stage,Charles Pélissier,FRA,1930,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,286.91904774297103,102.43615498129934
+20,1930-07-26,271.0,Charleville,Malo-les-Bains,Plain stage,Charles Pélissier,FRA,1930,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,102.43615498129934,242.2572569291751
+21,1930-07-27,300.0,Malo-les-Bains,Paris,Plain stage,Charles Pélissier,FRA,1930,Charles_Pélissier,Flat stage,1903-02-20,16e arrondissement de Paris,242.2572569291751,3.6356202466807668
+2,1929-07-01,140.0,Caen,Cherbourg,Plain stage,André Leducq,FRA,1929,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,199.47600463795615,299.29695773432496
+6,1929-07-05,206.0,Vannes,Les Sables d'Olonne,Plain stage,Paul Le Drogo,FRA,1929,Paul_Le_Drogo,Flat stage,1905-12-16,Pontivy,47.75153464714232,195.33932448181486
+8,1929-07-07,182.0,Bordeaux,Bayonne,Plain stage,Julien Moineau,FRA,1929,Julien_Moineau,Flat stage,1903-11-27,Clichy,502.1433642054054,668.1246855548152
+11,1929-07-13,366.0,Perpignan,Marseille,Plain stage,André Leducq,FRA,1929,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,691.9515662502976,666.7131272431701
+12,1929-07-15,191.0,Marseille,Cannes,Team time trial,Marcel Bidot,FRA,1929,Marcel_Bidot,Flat stage,1902-12-21,4e arrondissement de Paris,10097.95779722893,9962.080231904727
+13,1929-07-16,133.0,Cannes,Nice,Stage with mountain(s),Benoît Fauré,FRA,1929,Benoît_Fauré,Mountain stage,1899-01-11,Saint-Marcellin-en-Forez,312.9361411411498,316.9396149335051
+16,1929-07-22,283.0,Evian,Belfort,Stage with mountain(s),Charles Pélissier,FRA,1929,Charles_Pélissier,Mountain stage,1903-02-20,16e arrondissement de Paris,511.9219018825023,367.2336456273433
+17,1929-07-23,145.0,Belfort,Strasbourg,Plain stage,André Leducq,FRA,1929,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,364.6971270641111,399.8967190934886
+18,1929-07-24,165.0,Strasbourg,Metz,Plain stage,André Leducq,FRA,1929,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,399.8967190934886,281.9634001339414
+21,1929-07-27,234.0,Malo-les-Bains,Dieppe,Plain stage,André Leducq,FRA,1929,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,237.51223045210392,144.85323286334796
+2,1928-06-18,140.0,Caen,Cherbourg,Team time trial,André Leducq,FRA,1928,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,199.47600463795615,299.29695773432496
+5,1928-06-21,208.0,Brest,Vannes,Team time trial,Marcel Bidot,FRA,1928,Marcel_Bidot,Flat stage,1902-12-21,4e arrondissement de Paris,10632.845149927804,10544.946469675939
+7,1928-06-23,285.0,Les Sables d'Olonne,Bordeaux,Team time trial,Victor Fontan,FRA,1928,Victor_Fontan,Flat stage,1892-06-18,Pau,373.4297185031686,172.55623044157264
+9,1928-06-26,387.0,Hendaye,Luchon,Stage with mountain(s),Victor Fontan,FRA,1928,Victor_Fontan,Mountain stage,1892-06-18,Pau,113.23754709465518,96.22804572253543
+10,1928-06-28,323.0,Luchon,Perpignan,Stage with mountain(s),André Leducq,FRA,1928,André_Leducq,Mountain stage,1904-02-27,Saint-Ouen-sur-Seine,693.5891237577896,691.9515662502976
+11,1928-06-30,363.0,Perpignan,Marseille,Plain stage,André Leducq,FRA,1928,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,691.9515662502976,666.7131272431701
+13,1928-07-04,333.0,Nice,Grenoble,Stage with mountain(s),Antonin Magne,FRA,1928,Antonin_Magne,Mountain stage,1904-02-15,Ytrac,413.7679687963548,267.4303400914215
+14,1928-07-06,329.0,Grenoble,Evian,Stage with mountain(s),Julien Moineau,FRA,1928,Julien_Moineau,Mountain stage,1903-11-27,Clichy,488.2706929810405,512.572335301248
+15,1928-07-08,213.0,Evian,Pontarlier,Team time trial,Pierre Magne,FRA,1928,Pierre_Magne,Flat stage,1806-12-03,Périgueux,510.20357372402907,475.82562077295825
+16,1928-07-09,119.0,Pontarlier,Belfort,Team time trial,André Leducq,FRA,1928,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,374.30255476507006,364.6971270641111
+17,1928-07-10,145.0,Belfort,Strasbourg,Team time trial,Joseph Mauclair,FRA,1928,Joseph_Mauclair,Flat stage,1906-03-09,Pleurs,251.40050450338435,286.2749588274239
+19,1928-07-12,159.0,Metz,Charleville,Team time trial,Marcel Huot,FRA,1928,Marcel_Huot,Flat stage,1896-09-09,Épernay,162.65280471158613,33.002388094342855
+21,1928-07-14,234.0,Malo-les-Bains,Dieppe,Team time trial,Antonin Magne,FRA,1928,Antonin_Magne,Flat stage,1904-02-15,Ytrac,682.2096005045435,565.7247490888174
+1,1927-06-19,180.0,Paris,Dieppe,Team time trial,Francis Pélissier,FRA,1927,Francis_Pélissier,Flat stage,1894-06-13,18e arrondissement de Paris,4.521219161675102,148.53109433449686
+5,1927-06-23,199.0,Cherbourg,Dinan,Team time trial,Ferdinand Le Drogo,FRA,1927,Ferdinand_Le_Drogo,Flat stage,1903-10-10,Pontivy,201.22167841353192,80.85764415118612
+6,1927-06-24,206.0,Dinan,Brest,Team time trial,André Leducq,FRA,1927,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,326.6088454216808,505.6846992550822
+14,1927-07-05,120.0,Marseille,Toulon,Team time trial,Antonin Magne,FRA,1927,Antonin_Magne,Flat stage,1904-02-15,Ytrac,300.2218439404455,348.03415629854726
+23,1927-07-16,270.0,Charleville,Dunkerque,Team time trial,André Leducq,FRA,1927,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,98.35126854765682,236.1629327344793
+24,1927-07-17,344.0,Dunkerque,Paris,Plain stage,André Leducq,FRA,1927,André_Leducq,Flat stage,1904-02-27,Saint-Ouen-sur-Seine,236.1629327344793,5.968032214790153
+2,1925-06-23,371.0,Le Havre,Cherbourg,Plain stage,Romain Bellenger,FRA,1925,Romain_Bellenger,Flat stage,1894-01-18,18e arrondissement de Paris,177.9193785353142,302.36540693522016
+2,1924-06-24,371.0,Le Havre,Cherbourg,Plain stage,Romain Bellenger,FRA,1924,Romain_Bellenger,Flat stage,1894-01-18,18e arrondissement de Paris,177.9193785353142,302.36540693522016
+4,1924-06-28,412.0,Brest,Les Sables-d'Olonne,Plain stage,Félix Goethals,FRA,1924,Félix_Goethals,Flat stage,1891-01-14,Rinxent,523.9295616413176,544.8649224659165
+13,1924-07-16,300.0,Strasbourg,Metz,Plain stage,Arsène Alancourt,FRA,1924,Arsène_Alancourt,Flat stage,1892-02-29,Paris,400.6570539191463,283.68893475466353
+14,1924-07-18,433.0,Metz,Dunkerque,Plain stage,Romain Bellenger,FRA,1924,Romain_Bellenger,Flat stage,1894-01-18,18e arrondissement de Paris,279.98028297028566,238.99921673056792
+1,1923-06-24,381.0,Paris,Le Havre,Plain stage,Robert Jacquinot,FRA,1923,Robert_Jacquinot,Flat stage,1893-12-31,Aubervilliers,7.692041361436082,177.7997627033446
+3,1923-06-28,405.0,Cherbourg,Brest,Plain stage,Henri Pélissier,FRA,1923,Henri_Pélissier,Flat stage,1889-01-22,18e arrondissement de Paris,302.36540693522016,507.8077485643782
+5,1923-07-02,482.0,Les Sables d'Olonne,Bayonne,Plain stage,Robert Jacquinot,FRA,1923,Robert_Jacquinot,Flat stage,1893-12-31,Aubervilliers,412.46011449626354,671.9036249662704
+6,1923-07-04,326.0,Bayonne,Luchon,Stage with mountain(s),Jean Alavoine,FRA,1923,Jean_Alavoine,Mountain stage,1888-04-01,Roubaix,874.2026709321207,900.0241964750461
+7,1923-07-06,323.0,Luchon,Perpignan,Stage with mountain(s),Jean Alavoine,FRA,1923,Jean_Alavoine,Mountain stage,1888-04-01,Roubaix,900.0241964750461,888.8009342095492
+9,1923-07-10,281.0,Toulon,Nice,Stage with mountain(s),Jean Alavoine,FRA,1923,Jean_Alavoine,Mountain stage,1888-04-01,Roubaix,866.7395542088022,836.4845657572102
+10,1923-07-12,275.0,Nice,Briançon,Stage with mountain(s),Henri Pélissier,FRA,1923,Henri_Pélissier,Mountain stage,1889-01-22,18e arrondissement de Paris,688.7857514580016,550.0701434832664
+11,1923-07-14,260.0,Briançon,Geneva,Stage with mountain(s),Henri Pélissier,FRA,1923,Henri_Pélissier,Mountain stage,1889-01-22,18e arrondissement de Paris,550.0701434832664,412.2988776079014
+12,1923-07-16,377.0,Geneva,Strasbourg,Plain stage,Joseph Muller,FRA,1923,Joseph_Muller,Flat stage,1895-03-09,Orschwiller,245.324182116013,46.9316119547867
+13,1923-07-18,300.0,Strasbourg,Metz,Plain stage,Romain Bellenger,FRA,1923,Romain_Bellenger,Flat stage,1894-01-18,18e arrondissement de Paris,397.43192264402785,279.98028297028566
+14,1923-07-20,433.0,Metz,Dunkerque,Plain stage,Félix Goethals,FRA,1923,Félix_Goethals,Flat stage,1891-01-14,Rinxent,369.3950239158205,51.51247215902581
+15,1923-07-22,343.0,Dunkerque,Paris,Plain stage,Félix Goethals,FRA,1923,Félix_Goethals,Flat stage,1891-01-14,Rinxent,51.51247215902581,220.5949268798573
+1,1922-06-25,388.0,Paris,Le Havre,Plain stage,Robert Jacquinot,FRA,1922,Robert_Jacquinot,Flat stage,1893-12-31,Aubervilliers,7.692041361436082,177.7997627033446
+2,1922-06-27,364.0,Le Havre,Cherbourg,Plain stage,Romain Bellenger,FRA,1922,Romain_Bellenger,Flat stage,1894-01-18,18e arrondissement de Paris,177.9193785353142,302.36540693522016
+3,1922-06-29,405.0,Cherbourg,Brest,Plain stage,Robert Jacquinot,FRA,1922,Robert_Jacquinot,Flat stage,1893-12-31,Aubervilliers,302.55928177594603,509.21113664532794
+5,1922-07-03,482.0,Les Sables d'Olonne,Bayonne,Plain stage,Jean Alavoine,FRA,1922,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,592.5471406615608,874.2026709321207
+6,1922-07-05,326.0,Bayonne,Luchon,Stage with mountain(s),Jean Alavoine,FRA,1922,Jean_Alavoine,Mountain stage,1888-04-01,Roubaix,874.2026709321207,900.0241964750461
+7,1922-07-07,323.0,Luchon,Perpignan,Stage with mountain(s),Jean Alavoine,FRA,1922,Jean_Alavoine,Mountain stage,1888-04-01,Roubaix,900.0241964750461,888.8009342095492
+2,1921-06-28,364.0,Le Havre,Cherbourg,Plain stage,Romain Bellenger,FRA,1921,Romain_Bellenger,Flat stage,1894-01-18,18e arrondissement de Paris,177.9193785353142,302.36540693522016
+11,1921-07-16,325.0,Grenoble,Geneva,Stage with mountain(s),Félix Goethals,FRA,1921,Félix_Goethals,Mountain stage,1891-01-14,Rinxent,692.0232468589792,606.5564857863742
+12,1921-07-18,371.0,Geneva,Strasbourg,Plain stage,Honoré Barthélemy,FRA,1921,Honoré_Barthélemy,Flat stage,1891-09-25,13e arrondissement de Paris,407.317557180645,397.31284056902064
+14,1921-07-22,433.0,Metz,Dunkerque,Plain stage,Félix Goethals,FRA,1921,Félix_Goethals,Flat stage,1891-01-14,Rinxent,369.3950239158205,51.51247215902581
+15,1921-07-24,340.0,Dunkerque,Paris,Plain stage,Félix Goethals,FRA,1921,Félix_Goethals,Flat stage,1891-01-14,Rinxent,51.51247215902581,220.5949268798573
+3,1920-07-01,405.0,Cherbourg,Brest,Plain stage,Henri Pélissier,FRA,1920,Henri_Pélissier,Flat stage,1889-01-22,18e arrondissement de Paris,302.36540693522016,507.8077485643782
+4,1920-07-03,412.0,Brest,Les Sables d'Olonne,Plain stage,Henri Pélissier,FRA,1920,Henri_Pélissier,Flat stage,1889-01-22,18e arrondissement de Paris,507.8077485643782,409.5358311005181
+14,1920-07-24,433.0,Metz,Dunkerque,Plain stage,Félix Goethals,FRA,1920,Félix_Goethals,Flat stage,1891-01-14,Rinxent,369.3950239158205,51.51247215902581
+2,1919-07-01,364.0,Le Havre,Cherbourg,Plain stage,Henri Pélissier,FRA,1919,Henri_Pélissier,Flat stage,1889-01-22,18e arrondissement de Paris,177.9193785353142,302.36540693522016
+3,1919-07-03,405.0,Cherbourg,Brest,Plain stage,Francis Pélissier,FRA,1919,Francis_Pélissier,Flat stage,1894-06-13,18e arrondissement de Paris,302.36540693522016,507.8077485643782
+4,1919-07-05,412.0,Brest,Les Sables-d'Olonne,Plain stage,Jean Alavoine,FRA,1919,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,610.2406857792569,592.5471406615608
+5,1919-07-07,482.0,Les Sables-d'Olonne,Bayonne,Plain stage,Jean Alavoine,FRA,1919,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,592.5471406615608,874.2026709321207
+6,1919-07-09,326.0,Bayonne,Luchon,Stage with mountain,Honore Barthelemy,FRA,1919,Honore_Barthelemy,Mountain stage,,,,
+7,1919-07-11,323.0,Luchon,Perpignan,Stage with mountain,Jean Alavoine,FRA,1919,Jean_Alavoine,Mountain stage,1888-04-01,Roubaix,900.0241964750461,888.8009342095492
+8,1919-07-13,370.0,Perpignan,Marseille,Plain stage,Jean Alavoine,FRA,1919,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,888.8009342095492,838.8426095106394
+9,1919-07-15,338.0,Marseille,Nice,Stage with mountain,Honoré Barthélemy,FRA,1919,Honoré_Barthélemy,Mountain stage,1891-09-25,13e arrondissement de Paris,656.5131349452843,682.9450531847889
+10,1919-07-17,333.0,Nice,Grenoble,Stage with mountain,Honoré Barthélemy,FRA,1919,Honoré_Barthélemy,Mountain stage,1891-09-25,13e arrondissement de Paris,682.9450531847889,478.325315143788
+11,1919-07-19,325.0,Grenoble,Geneva,Stage with mountain,Honoré Barthélemy,FRA,1919,Honoré_Barthélemy,Mountain stage,1891-09-25,13e arrondissement de Paris,478.325315143788,407.317557180645
+15,1919-07-27,340.0,Dunkerque,Paris,Plain stage,Jean Alavoine,FRA,1919,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,67.86279541115492,212.91940562986298
+3,1914-07-02,405.0,Cherbourg,Brest,Plain stage,Emile Engel,FRA,1914,Emile_Engel,Flat stage,,,,
+7,1914-07-10,323.0,Luchon,Perpignan,Stage with mountain(s),Jean Alavoine,FRA,1914,Jean_Alavoine,Mountain stage,1888-04-01,Roubaix,900.0241964750461,888.8009342095492
+8,1914-07-12,370.0,Perpignan,Marseille,Plain stage,Octave Lapize,FRA,1914,Octave_Lapize,Flat stage,1887-10-24,14e arrondissement de Paris,683.2589345426882,658.7943460940887
+10,1914-07-16,323.0,Nice,Grenoble,Stage with mountain(s),Henri Pélissier,FRA,1914,Henri_Pélissier,Mountain stage,1889-01-22,18e arrondissement de Paris,688.7857514580016,484.2998898721282
+11,1914-07-18,325.0,Grenoble,Geneva,Stage with mountain(s),Gustave Garrigou,FRA,1914,Gustave_Garrigou,Mountain stage,1884-09-24,Vabre-Tizac,301.8514246368313,380.2049655135653
+12,1914-07-20,325.0,Geneva,Belfort,Stage with mountain(s),Henri Pélissier,FRA,1914,Henri_Pélissier,Mountain stage,1889-01-22,18e arrondissement de Paris,412.2988776079014,361.5086846032555
+15,1914-07-26,340.0,Dunkerque,Paris,Plain stage,Henri Pélissier,FRA,1914,Henri_Pélissier,Flat stage,1889-01-22,18e arrondissement de Paris,238.99921673056792,4.521219161675102
+3,1913-07-03,405.0,Cherbourg,Brest,Plain stage,Henri Pelissier,FRA,1913,Henri_Pelissier,Flat stage,1889-01-22,18e arrondissement de Paris,302.36540693522016,507.8077485643782
+8,1913-07-13,325.0,Perpignan,Aix-en-Provence,Plain stage,Gustave Garrigou,FRA,1913,Gustave_Garrigou,Flat stage,1884-09-24,Vabre-Tizac,184.81658685723443,277.49953515753356
+1,1912-06-30,351.0,Paris,Dunkerque,Plain stage,Charles Crupelandt,FRA,1912,Charles_Crupelandt,Flat stage,1886-10-23,Roubaix,212.91940562986298,67.86279541115492
+3,1912-07-04,331.0,Longwy,Belfort,Stage with mountain(s),Eugène Christophe,FRA,1912,Eugène_Christophe,Mountain stage,1885-01-22,1er arrondissement de Paris,4233.3041620807035,4011.168324688875
+4,1912-07-06,344.0,Belfort,Chamonix,Stage with mountain(s),Eugène Christophe,FRA,1912,Eugène_Christophe,Mountain stage,1885-01-22,1er arrondissement de Paris,4011.168324688875,3826.1393664877787
+5,1912-07-08,366.0,Chamonix,Grenoble,Stage with mountain(s),Eugène Christophe,FRA,1912,Eugène_Christophe,Mountain stage,1885-01-22,1er arrondissement de Paris,3826.1393664877787,3770.634005470209
+6,1912-07-10,323.0,Grenoble,Nice,Stage with mountain(s),Octave Lapize,FRA,1912,Octave_Lapize,Mountain stage,1887-10-24,14e arrondissement de Paris,480.96336634083855,685.6258575964001
+11,1912-07-20,379.0,Bayonne,La Rochelle,Plain stage,Jean Alavoine,FRA,1912,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,874.2026709321207,596.8690246912923
+13,1912-07-24,405.0,Brest,Cherbourg,Plain stage,Jean Alavoine,FRA,1912,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,610.2406857792569,362.1150612906621
+15,1912-07-28,317.0,Le Havre,Paris,Plain stage,Jean Alavoine,FRA,1912,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,256.656371994948,212.91940562986298
+1,1911-07-02,351.0,Paris,Dunkerque,Plain stage,Gustave Garrigou,FRA,1911,Gustave_Garrigou,Flat stage,1884-09-24,Vabre-Tizac,510.2066483972138,752.251716870336
+4,1911-07-08,344.0,Belfort,Chamonix,Stage with mountain(s),Charles Crupelandt,FRA,1911,Charles_Crupelandt,Mountain stage,1886-10-23,Roubaix,433.12919355934474,596.672516862511
+5,1911-07-10,366.0,Chamonix,Grenoble,Stage with mountain(s),Émile Georget,FRA,1911,Émile_Georget,Mountain stage,1881-11-21,Bossay-sur-Claise,465.3481805752529,412.0561900070585
+7,1911-07-14,334.0,Nice,Marseille,Stage with mountain(s),Charles Crupelandt,FRA,1911,Charles_Crupelandt,Mountain stage,1886-10-23,Roubaix,836.4845657572102,838.8426095106394
+8,1911-07-16,335.0,Marseille,Perpignan,Plain stage,Paul Duboc,FRA,1911,Paul_Duboc,Flat stage,1884-04-02,Rouen,757.7993107045032,762.1688553481274
+9,1911-07-18,289.0,Perpignan,Luchon,Stage with mountain(s),Paul Duboc,FRA,1911,Paul_Duboc,Mountain stage,1884-04-02,Rouen,762.1688553481274,740.1201922855995
+10,1911-07-20,326.0,Luchon,Bayonne,Stage with mountain(s),Maurice Brocco[n 2],FRA,1911,Maurice_Brocco[n_2],Mountain stage,,,,
+11,1911-07-22,379.0,Bayonne,La Rochelle,Plain stage,Paul Duboc,FRA,1911,Paul_Duboc,Flat stage,1884-04-02,Rouen,689.794018290877,401.72294361322673
+12,1911-07-23,470.0,La Rochelle,Brest,Plain stage,Marcel Godivier,FRA,1911,Marcel_Godivier,Flat stage,1887-01-17,Versailles,383.99196216740734,489.7549767961984
+13,1911-07-26,405.0,Brest,Cherbourg,Plain stage,Gustave Garrigou,FRA,1911,Gustave_Garrigou,Flat stage,1884-09-24,Vabre-Tizac,685.6177191707583,662.4603222107054
+14,1911-07-28,361.0,Cherbourg,Le Havre,Plain stage,Paul Duboc,FRA,1911,Paul_Duboc,Flat stage,1884-04-02,Rouen,198.05091969712484,71.71583973354586
+15,1911-07-30,317.0,Le Havre,Paris,Plain stage,Marcel Godivier,FRA,1911,Marcel_Godivier,Flat stage,1887-01-17,Versailles,166.0761232740279,15.472683673109765
+1,1910-07-03,269.0,Paris,Roubaix,Plain stage,Charles Crupelandt,FRA,1910,Charles_Crupelandt,Flat stage,1886-10-23,Roubaix,212.91940562986298,0.0
+3,1910-07-07,259.0,Metz,Belfort,Stage with mountain(s),Emile Georget,FRA,1910,Emile_Georget,Mountain stage,1881-11-21,Bossay-sur-Claise,464.6034500367892,455.2849897812031
+5,1910-07-11,311.0,Lyon,Grenoble,Stage with mountain(s),Octave Lapize,FRA,1910,Octave_Lapize,Mountain stage,1887-10-24,14e arrondissement de Paris,390.8320332581218,480.96336634083855
+6,1910-07-13,345.0,Grenoble,Nice,Stage with mountain(s),Julien Maitron,FRA,1910,Julien_Maitron,Mountain stage,1881-02-20,Dompierre-sur-Nièvre,297.8053987726169,503.07129013727496
+8,1910-07-17,216.0,Nîmes,Perpignan,Plain stage,Georges Paulmier,FRA,1910,Georges_Paulmier,Flat stage,1882-09-24,Frépillon,602.7277380051358,708.1278649817909
+9,1910-07-19,289.0,Perpignan,Luchon,Stage with mountain(s),Octave Lapize,FRA,1910,Octave_Lapize,Mountain stage,1887-10-24,14e arrondissement de Paris,683.2589345426882,684.9187482326226
+10,1910-07-21,326.0,Luchon,Bayonne,Stage with mountain(s),Octave Lapize,FRA,1910,Octave_Lapize,Mountain stage,1887-10-24,14e arrondissement de Paris,684.9187482326226,661.9909074937481
+11,1910-07-23,269.0,Bayonne,Bordeaux,Plain stage,Ernest Paul,FRA,1910,Ernest_Paul,Flat stage,1881-12-05,Villotte-sur-Ource,682.1012838812165,525.8482329018939
+12,1910-07-25,391.0,Bordeaux,Nantes,Plain stage,Louis Trousselier,FRA,1910,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,505.61627708066993,694.8355949855505
+13,1910-07-27,321.0,Nantes,Brest,Plain stage,Gustave Garrigou,FRA,1910,Gustave_Garrigou,Flat stage,1884-09-24,Vabre-Tizac,436.2252662149896,685.6177191707583
+14,1910-07-29,424.0,Brest,Caen,Plain stage,Octave Lapize,FRA,1910,Octave_Lapize,Flat stage,1887-10-24,14e arrondissement de Paris,504.6123571397584,200.6047177982913
+7,1909-07-17,345.0,Nice,Nîmes,Plain stage,Ernest Paul,FRA,1909,Ernest_Paul,Flat stage,1881-12-05,Villotte-sur-Ource,504.42969796119996,448.13026393297537
+8,1909-07-19,303.0,Nîmes,Toulouse,Plain stage,Jean Alavoine,FRA,1909,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,767.2564498252766,798.6895545052654
+9,1909-07-21,299.0,Toulouse,Bayonne,Plain stage,Constant Ménager,FRA,1909,Constant_Ménager,Flat stage,1889-04-15,Montataire,632.8130711887891,707.4388105880807
+11,1909-07-25,391.0,Bordeaux,Nantes,Plain stage,Louis Trousselier,FRA,1909,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,505.61627708066993,694.8355949855505
+12,1909-07-27,321.0,Nantes,Brest,Plain stage,Gustave Garrigou,FRA,1909,Gustave_Garrigou,Flat stage,1884-09-24,Vabre-Tizac,436.2252662149896,685.6177191707583
+13,1909-07-29,424.0,Brest,Caen,Plain stage,Paul Duboc,FRA,1909,Paul_Duboc,Flat stage,1884-04-02,Rouen,425.2119189123876,109.83056414032802
+14,1909-08-01,250.0,Caen,Paris,Plain stage,Jean Alavoine,FRA,1909,Jean_Alavoine,Flat stage,1888-04-01,Roubaix,304.44930620928295,212.91940562986298
+1,1908-07-13,272.0,Paris,Roubaix,Plain stage,Georges Passerieu,FRA,1908,Georges_Passerieu,Flat stage,1885-10-11,Londres,342.51305332669915,248.4230538657937
+2,1908-07-15,398.0,Roubaix,Metz,Plain stage,Lucien Petit-Breton,FRA,1908,Lucien_Petit-Breton,Flat stage,1882-10-18,Plessé,508.88761324021226,622.7012310122243
+5,1908-07-21,311.0,Lyon,Grenoble,Stage with mountain(s),Georges Passerieu,FRA,1908,Georges_Passerieu,Mountain stage,1885-10-11,Londres,736.089216497482,825.6626536633751
+6,1908-07-23,345.0,Grenoble,Nice,Stage with mountain(s),Jean-Baptiste Dortignacq,FRA,1908,Jean-Baptiste_Dortignacq,Mountain stage,1884-04-25,Arudy,544.5456480025547,626.7247445871303
+7,1908-07-25,354.0,Nice,Nîmes,Plain stage,Lucien Petit-Breton,FRA,1908,Lucien_Petit-Breton,Flat stage,1882-10-18,Plessé,831.0603632689165,637.0275624605301
+9,1908-07-29,299.0,Toulouse,Bayonne,Plain stage,Lucien Petit-Breton,FRA,1908,Lucien_Petit-Breton,Flat stage,1882-10-18,Plessé,508.88797193444265,451.0915634595027
+10,1908-07-31,269.0,Bayonne,Bordeaux,Plain stage,Georges Paulmier,FRA,1908,Georges_Paulmier,Flat stage,1882-09-24,Frépillon,679.5440593188158,513.6668483879934
+11,1908-08-02,391.0,Bordeaux,Nantes,Plain stage,Lucien Petit-Breton,FRA,1908,Lucien_Petit-Breton,Flat stage,1882-10-18,Plessé,316.651402779961,43.81982067078663
+13,1908-08-06,415.0,Brest,Caen,Plain stage,Georges Passerieu,FRA,1908,Georges_Passerieu,Flat stage,1885-10-11,Londres,466.7731332294524,259.27610814939896
+14,1908-08-09,251.0,Caen,Paris,Plain stage,Lucien Petit-Breton,FRA,1908,Lucien_Petit-Breton,Flat stage,1882-10-18,Plessé,214.40861224195172,345.229736311464
+1,1907-07-08,272.0,Paris,Roubaix,Plain stage,Louis Trousselier,FRA,1907,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,659.7390771947219,836.8765118729606
+3,1907-07-12,259.0,Metz,Belfort,Stage with mountain(s),Emile Georget,FRA,1907,Emile_Georget,Mountain stage,1881-11-21,Bossay-sur-Claise,464.6034500367892,455.2849897812031
+4,1907-07-14,309.0,Belfort,Lyon,Stage with mountain(s),Marcel Cadolle,FRA,1907,Marcel_Cadolle,Mountain stage,1885-12-21,3e arrondissement de Paris,494.9856113439395,275.394797695809
+5,1907-07-16,311.0,Lyon,Grenoble,Stage with mountain(s),Emile Georget,FRA,1907,Emile_Georget,Mountain stage,1881-11-21,Bossay-sur-Claise,320.8629888314337,412.0561900070585
+6,1907-07-18,345.0,Grenoble,Nice,Stage with mountain(s),Georges Passerieu,FRA,1907,Georges_Passerieu,Mountain stage,1885-10-11,Londres,825.6626536633751,1029.6409379215074
+7,1907-07-20,345.0,Nice,Nîmes,Plain stage,Emile Georget,FRA,1907,Emile_Georget,Flat stage,1881-11-21,Bossay-sur-Claise,604.4432155711805,425.9922460716894
+8,1907-07-22,303.0,Nîmes,Toulouse,Plain stage,Emile Georget,FRA,1907,Emile_Georget,Flat stage,1881-11-21,Bossay-sur-Claise,425.9922460716894,360.6673853775133
+9,1907-07-24,299.0,Toulouse,Bayonne,Plain stage,Lucien Petit-Breton,FRA,1907,Lucien_Petit-Breton,Flat stage,1882-10-18,Plessé,508.88797193444265,451.0915634595027
+10,1907-07-26,269.0,Bayonne,Bordeaux,Plain stage,Gustave Garrigou,FRA,1907,Gustave_Garrigou,Flat stage,1884-09-24,Vabre-Tizac,303.7236839289004,225.8653424282537
+11,1907-07-28,391.0,Bordeaux,Nantes,Plain stage,Lucien Petit-Breton,FRA,1907,Lucien_Petit-Breton,Flat stage,1882-10-18,Plessé,316.651402779961,43.81982067078663
+12,1907-07-30,321.0,Nantes,Brest,Plain stage,Gustave Garrigou,FRA,1907,Gustave_Garrigou,Flat stage,1884-09-24,Vabre-Tizac,436.2252662149896,685.6177191707583
+13,1907-08-01,415.0,Brest,Caen,Plain stage,Emile Georget,FRA,1907,Emile_Georget,Flat stage,1881-11-21,Bossay-sur-Claise,444.9050357698249,279.408697580714
+14,1907-08-04,251.0,Caen,Paris,Plain stage,Georges Passerieu,FRA,1907,Georges_Passerieu,Flat stage,1885-10-11,Londres,259.27610814939896,342.51305332669915
+1,1906-07-04,275.0,Paris,Lille,Plain stage,Emile Georget,FRA,1906,Emile_Georget,Flat stage,1881-11-21,Bossay-sur-Claise,247.07355395281624,450.27353160259037
+2,1906-07-06,400.0,Douai,Nancy,Plain stage,René Pottier,FRA,1906,René_Pottier,Flat stage,,,,
+3,1906-07-08,416.0,Nancy,Dijon,Stage with mountain(s),René Pottier,FRA,1906,René_Pottier,Mountain stage,,,,
+4,1906-07-10,311.0,Dijon,Grenoble,Plain stage,René Pottier,FRA,1906,René_Pottier,Flat stage,,,,
+5,1906-07-12,345.0,Grenoble,Nice,Stage with mountain(s),René Pottier,FRA,1906,René_Pottier,Mountain stage,,,,
+6,1906-07-14,292.0,Nice,Marseille,Plain stage,Georges Passerieu,FRA,1906,Georges_Passerieu,Flat stage,1885-10-11,Londres,1029.6409379215074,1002.090548611528
+7,1906-07-16,480.0,Marseille,Toulouse,Plain stage,Louis Trousselier,FRA,1906,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,1.9767889696010505,319.1552295175922
+8,1906-07-18,300.0,Toulouse,Bayonne,Plain stage,Jean-Baptiste Dortignacq,FRA,1906,Jean-Baptiste_Dortignacq,Flat stage,1884-04-25,Arudy,161.59922394751788,95.2945878627286
+9,1906-07-20,338.0,Bayonne,Bordeaux,Plain stage,Louis Trousselier,FRA,1906,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,554.5238927208826,505.61627708066993
+10,1906-07-22,391.0,Bordeaux,Nantes,Plain stage,Louis Trousselier,FRA,1906,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,505.61627708066993,694.8355949855505
+11,1906-07-24,321.0,Nantes,Brest,Plain stage,Louis Trousselier,FRA,1906,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,694.8355949855505,949.62962423924
+12,1906-07-26,415.0,Brest,Caen,Plain stage,Georges Passerieu,FRA,1906,Georges_Passerieu,Flat stage,1885-10-11,Londres,466.7731332294524,259.27610814939896
+13,1906-07-29,259.0,Caen,Paris,Plain stage,René Pottier,FRA,1906,René_Pottier,Flat stage,,,,
+1,1905-07-09,340.0,Paris,Nancy,Plain stage,Louis Trousselier,FRA,1905,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,659.7390771947219,601.290351683052
+2,1905-07-11,299.0,Nancy,Besançon,Stage with mountain(s),Hippolyte Aucouturier,FRA,1905,Hippolyte_Aucouturier,Mountain stage,1876-10-17,La Celle,516.6594574237797,665.8656235504791
+3,1905-07-14,327.0,Besançon,Grenoble,Plain stage,Louis Trousselier,FRA,1905,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,439.141406790227,210.2569057890653
+4,1905-07-16,348.0,Grenoble,Toulon,Stage with mountain(s),Hippolyte Aucouturier,FRA,1905,Hippolyte_Aucouturier,Mountain stage,1876-10-17,La Celle,885.8116823069237,1100.3105613250577
+5,1905-07-18,192.0,Toulon,Nîmes,Plain stage,Louis Trousselier,FRA,1905,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,50.26098386189368,100.05374601461081
+6,1905-07-20,307.0,Nîmes,Toulouse,Plain stage,Jean-Baptiste Dortignacq,FRA,1905,Jean-Baptiste_Dortignacq,Flat stage,1884-04-25,Arudy,395.81378373455607,161.59922394751788
+7,1905-07-22,268.0,Toulouse,Bordeaux,Plain stage,Louis Trousselier,FRA,1905,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,319.1552295175922,505.61627708066993
+8,1905-07-24,257.0,Bordeaux,La Rochelle,Plain stage,Hippolyte Aucouturier,FRA,1905,Hippolyte_Aucouturier,Flat stage,1876-10-17,La Celle,1165.5381083425352,1084.9749733563458
+9,1905-07-26,263.0,La Rochelle,Rennes,Plain stage,Louis Trousselier,FRA,1905,Louis_Trousselier,Flat stage,1881-06-29,2e arrondissement de Paris,605.2357275358748,764.5569772406348
+10,1905-07-28,167.0,Rennes,Caen,Plain stage,Jean-Baptiste Dortignacq,FRA,1905,Jean-Baptiste_Dortignacq,Flat stage,1884-04-25,Arudy,564.9061069193627,675.4265069446628
+11,1905-07-29,253.0,Caen,Paris,Plain stage,Jean-Baptiste Dortignacq,FRA,1905,Jean-Baptiste_Dortignacq,Flat stage,1884-04-25,Arudy,675.4265069446628,673.9429196495691
+1,1904-07-02,467.0,Montgeron,Lyon,Plain stage,Maurice Garin,FRA,1904,Maurice_Garin,Flat stage,1871-03-03,Arvier,488.1687544189428,181.8097462564495
+2,1904-07-09,374.0,Lyon,Marseille,Stage with mountain(s),Hippolyte Aucouturier,FRA,1904,Hippolyte_Aucouturier,Mountain stage,1876-10-17,La Celle,853.5581631880754,1094.6083524089806
+3,1904-07-13,424.0,Marseille,Toulouse,Plain stage,Hippolyte Aucouturier,FRA,1904,Hippolyte_Aucouturier,Flat stage,1876-10-17,La Celle,1094.6083524089806,1189.5034959395946
+4,1904-07-17,268.0,Toulouse,Bordeaux,Plain stage,Lucien Pothier,FRA,1904,Lucien_Pothier,Flat stage,1883-01-15,Cuy,674.3647034827808,589.9768587858872
+5,1904-07-20,425.0,Bordeaux,Nantes,Plain stage,Hippolyte Aucouturier,FRA,1904,Hippolyte_Aucouturier,Flat stage,1876-10-17,La Celle,1165.5381083425352,1027.378457492947
+6,1904-07-23,471.0,Nantes,Paris,Plain stage,Hippolyte Aucouturier,FRA,1904,Hippolyte_Aucouturier,Flat stage,1876-10-17,La Celle,1027.378457492947,688.9701427491549
+1,1903-07-01,467.0,Paris,Lyon,Plain stage,Maurice Garin,FRA,1903,Maurice_Garin,Flat stage,1871-03-03,Arvier,507.3381007718102,181.8097462564495
+2,1903-07-05,374.0,Lyon,Marseille,Stage with mountain(s),Hippolyte Aucouturier,FRA,1903,Hippolyte_Aucouturier,Mountain stage,1876-10-17,La Celle,853.5581631880754,1094.6083524089806
+3,1903-07-08,423.0,Marseille,Toulouse,Plain stage,Hippolyte Aucouturier,FRA,1903,Hippolyte_Aucouturier,Flat stage,1876-10-17,La Celle,1094.6083524089806,1189.5034959395946
+5,1903-07-13,425.0,Bordeaux,Nantes,Plain stage,Maurice Garin,FRA,1903,Maurice_Garin,Flat stage,1871-03-03,Arvier,615.1276090847726,690.3646683650086
+6,1903-07-18,471.0,Nantes,Paris,Plain stage,Maurice Garin,FRA,1903,Maurice_Garin,Flat stage,1871-03-03,Arvier,690.3646683650086,507.3381007718102
